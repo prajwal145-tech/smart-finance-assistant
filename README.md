@@ -30,20 +30,27 @@ Everything runs on your machine. You control your data.
 
 ## How to run it
 
-### 1.Clone the repo
-```bash
-git clone https://github.com/yourusername/smart-finance-assistant.git
-cd smart-finance-assistant
+## How to Run It
 
-### 2.Create a Virtual Environment
-py -3.11 -m venv finance_env
-finance_env\Scripts\activate
+1. **Clone the Repo**  
+   ```bash
+   git clone https://github.com/prajwal145-tech/smart-finance-assistant.git
+   cd smart-finance-assistant
+   ```
 
-### 3.Install Dependencies
-pip install -r requirements.txt
+2. **Create a Virtual Environment**  
+   ```powershell
+   py -3.11 -m venv finance_env
+   finance_env\Scripts\activate
+   ```
 
-### 4.Run the App
-cd src
-streamlit run app.py
+3. **Install Dependencies**  
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-
+4. **Run the App**  
+   ```bash
+   cd src
+   streamlit run app.py
+   ```
