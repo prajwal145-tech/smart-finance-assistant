@@ -25,7 +25,7 @@ Everything runs on your machine. You control your data.
 
 ## How to run it
 
-### 1. Clone the repo
+### Clone the repo
 ```bash
 git clone https://github.com/yourusername/smart-finance-assistant.git
 cd smart-finance-assistant
