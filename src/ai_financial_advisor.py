@@ -1,12 +1,9 @@
 """
 Smart Personal Finance Assistant - AI Financial Advisor
 =====================================================
-
 This module integrates with AI APIs to provide personalized financial advice.
-Uses OpenAI GPT for intelligent financial recommendations!
+Uses OpenAI GPT for intelligent financial recommendations.
 
-Author: Your Name
-Date: 2024
 """
 
 import os

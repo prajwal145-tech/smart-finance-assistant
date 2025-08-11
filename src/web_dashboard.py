@@ -5,8 +5,6 @@ Smart Personal Finance Assistant - Web Dashboard
 Beautiful, interactive web interface for financial analysis!
 Built with Streamlit - turns Python into a web app instantly!
 
-Author: Your Name
-Date: 2024
 """
 
 import streamlit as st

@@ -1,5 +1,5 @@
 """
-Test our data generator - Run this first!
+Test data generator - Run this first.
 """
 
 # Import our data generator

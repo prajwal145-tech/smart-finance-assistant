@@ -3,16 +3,14 @@ Smart Personal Finance Assistant - Enhanced Main Application
 ==========================================================
 
 This is the main application file that brings everything together:
-- Beautiful web interface
-- AI-powered insights
-- ML predictions
-- Financial analysis
-- Multi-country support
+- Web interface.
+- AI-powered insights.
+- ML predictions.
+- Financial analysis.
+- Multi-country support.
 
-Run with: streamlit run app.py
+Run with: streamlit run src/app.py
 
-Author: Your Name
-Date: 2024
 """
 
 import streamlit as st

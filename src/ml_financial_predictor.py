@@ -5,8 +5,6 @@ Smart Personal Finance Assistant - ML Financial Predictor
 This module uses machine learning to predict future spending patterns,
 detect anomalies, and provide data-driven financial insights.
 
-Author: Your Name
-Date: 2024
 """
 
 import pandas as pd
