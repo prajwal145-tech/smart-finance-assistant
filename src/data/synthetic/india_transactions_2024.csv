@@ -1,0 +1,639 @@
+date,amount,category,merchant,description,type,currency,balance
+2024-01-02,-5029.43,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-5029.43
+2024-01-03,-321.08,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,-5350.51
+2024-01-03,-1692.17,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,-7042.68
+2024-01-04,-1231.32,Groceries,DMart,Groceries at DMart,debit,INR,-8274.0
+2024-01-04,-3975.3,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,-12249.3
+2024-01-04,-299.05,Entertainment,PVR Cinemas,Entertainment at PVR Cinemas,debit,INR,-12548.349999999999
+2024-01-05,-541.25,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,-13089.599999999999
+2024-01-05,-465.08,Healthcare,Local Clinic,Healthcare at Local Clinic,debit,INR,-13554.679999999998
+2024-01-06,-301.51,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-13856.189999999999
+2024-01-07,-2404.41,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-16260.599999999999
+2024-01-07,-201.86,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-16462.46
+2024-01-08,-437.91,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-16900.37
+2024-01-08,-509.17,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-17409.539999999997
+2024-01-09,-388.35,Transport,Uber,Transport at Uber,debit,INR,-17797.889999999996
+2024-01-10,-391.14,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,-18189.029999999995
+2024-01-11,-805.09,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,-18994.119999999995
+2024-01-12,-401.05,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-19395.169999999995
+2024-01-12,-347.63,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,-19742.799999999996
+2024-01-14,-255.65,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-19998.449999999997
+2024-01-14,-701.3,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-20699.749999999996
+2024-01-14,-722.82,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-21422.569999999996
+2024-01-15,-515.31,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,-21937.879999999997
+2024-01-16,-572.17,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,-22510.049999999996
+2024-01-16,-2905.17,Shopping,Medical Store,Shopping at Medical Store,debit,INR,-25415.219999999994
+2024-01-16,-1374.3,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-26789.519999999993
+2024-01-17,-2197.35,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-28986.86999999999
+2024-01-18,-349.43,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,-29336.299999999992
+2024-01-18,-906.58,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-30242.879999999994
+2024-01-19,-768.56,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,-31011.439999999995
+2024-01-19,-2633.22,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-33644.659999999996
+2024-01-19,-1704.35,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-35349.009999999995
+2024-01-22,-2026.73,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-37375.74
+2024-01-22,-163.73,Dining Out,Zomato,Dining Out at Zomato,debit,INR,-37539.47
+2024-01-22,-332.03,Transport,HP Petrol,Transport at HP Petrol,debit,INR,-37871.5
+2024-01-22,-1085.42,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-38956.92
+2024-01-23,-1020.02,Other,Miscellaneous,Other at Miscellaneous,debit,INR,-39976.939999999995
+2024-01-24,-839.62,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-40816.56
+2024-01-24,-2099.83,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-42916.39
+2024-01-25,-2434.7,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-45351.09
+2024-01-26,-842.01,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,-46193.1
+2024-01-26,-309.23,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,-46502.33
+2024-01-27,-2270.82,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-48773.15
+2024-01-28,-192.75,Transport,Uber,Transport at Uber,debit,INR,-48965.9
+2024-01-30,-180.01,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-49145.91
+2024-01-30,-1309.71,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-50455.62
+2024-01-30,-287.94,Dining Out,Zomato,Dining Out at Zomato,debit,INR,-50743.560000000005
+2024-01-31,-2473.21,Shopping,Medical Store,Shopping at Medical Store,debit,INR,-53216.770000000004
+2024-01-31,36000.12,Income,Local Business,Monthly Salary,credit,INR,-17216.65
+2024-02-01,70954.52,Income,Local Business,Monthly Salary,credit,INR,53737.87
+2024-02-01,-112.07,Transport,HP Petrol,Transport at HP Petrol,debit,INR,53625.8
+2024-02-01,-1829.85,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,51795.950000000004
+2024-02-02,-492.89,Other,ATM,Other at ATM,debit,INR,51303.060000000005
+2024-02-03,-1306.82,Shopping,Medical Store,Shopping at Medical Store,debit,INR,49996.240000000005
+2024-02-03,-345.37,Groceries,Spencer's,Groceries at Spencer's,debit,INR,49650.87
+2024-02-04,-2210.87,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,47440.0
+2024-02-04,-2854.37,Shopping,Medical Store,Shopping at Medical Store,debit,INR,44585.63
+2024-02-05,-1712.46,Utilities,Airtel,Utilities at Airtel,debit,INR,42873.17
+2024-02-06,-434.99,Shopping,Local Mall,Shopping at Local Mall,debit,INR,42438.18
+2024-02-06,-603.8,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,41834.38
+2024-02-07,-528.97,Utilities,BWSSB,Utilities at BWSSB,debit,INR,41305.409999999996
+2024-02-07,-564.71,Transport,Uber,Transport at Uber,debit,INR,40740.7
+2024-02-08,-1583.61,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,39157.09
+2024-02-08,-226.38,Transport,Ola,Transport at Ola,debit,INR,38930.71
+2024-02-08,-763.53,Other,UPI Transfer,Other at UPI Transfer,debit,INR,38167.18
+2024-02-08,-164.35,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,38002.83
+2024-02-09,-632.36,Transport,Indian Oil,Transport at Indian Oil,debit,INR,37370.47
+2024-02-09,-318.93,Utilities,Airtel,Utilities at Airtel,debit,INR,37051.54
+2024-02-10,-527.58,Dining Out,CCD,Dining Out at CCD,debit,INR,36523.96
+2024-02-11,-746.53,Dining Out,KFC,Dining Out at KFC,debit,INR,35777.43
+2024-02-12,-2710.81,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,33066.62
+2024-02-12,-1814.37,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,31252.250000000004
+2024-02-13,-997.3,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,30254.950000000004
+2024-02-14,-2018.51,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,28236.440000000006
+2024-02-15,-640.88,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,27595.560000000005
+2024-02-16,-471.48,Other,ATM,Other at ATM,debit,INR,27124.080000000005
+2024-02-16,-1416.66,Shopping,Amazon India,Shopping at Amazon India,debit,INR,25707.420000000006
+2024-02-17,-1542.1,Other,Online Payment,Other at Online Payment,debit,INR,24165.320000000007
+2024-02-18,-254.34,Transport,BMTC,Transport at BMTC,debit,INR,23910.980000000007
+2024-02-18,-299.43,Dining Out,Domino's,Dining Out at Domino's,debit,INR,23611.550000000007
+2024-02-19,-869.23,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,22742.320000000007
+2024-02-20,-2275.95,Groceries,Spencer's,Groceries at Spencer's,debit,INR,20466.370000000006
+2024-02-20,-1724.23,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,18742.140000000007
+2024-02-21,-315.62,Other,Online Payment,Other at Online Payment,debit,INR,18426.520000000008
+2024-02-23,-430.83,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,17995.690000000006
+2024-02-24,-1825.28,Other,Online Payment,Other at Online Payment,debit,INR,16170.410000000005
+2024-02-25,-516.71,Dining Out,Zomato,Dining Out at Zomato,debit,INR,15653.700000000004
+2024-02-25,-786.43,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,14867.270000000004
+2024-02-26,-1667.9,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,13199.370000000004
+2024-02-27,-1322.46,Other,UPI Transfer,Other at UPI Transfer,debit,INR,11876.910000000003
+2024-02-28,-3803.88,Shopping,Amazon India,Shopping at Amazon India,debit,INR,8073.030000000003
+2024-02-28,-601.16,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,7471.8700000000035
+2024-02-28,-579.79,Dining Out,CCD,Dining Out at CCD,debit,INR,6892.080000000004
+2024-02-29,-309.61,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,6582.470000000004
+2024-02-29,-1871.31,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,4711.1600000000035
+2024-03-01,37308.73,Income,MNC Corp,Monthly Salary,credit,INR,42019.89000000001
+2024-03-01,-1402.44,Other,UPI Transfer,Other at UPI Transfer,debit,INR,40617.450000000004
+2024-03-01,-618.13,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,39999.32000000001
+2024-03-01,-411.0,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,39588.32000000001
+2024-03-02,-441.5,Healthcare,Apollo Pharmacy,Healthcare at Apollo Pharmacy,debit,INR,39146.82000000001
+2024-03-03,-4771.46,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,34375.36000000001
+2024-03-03,-781.76,Entertainment,Gym,Entertainment at Gym,debit,INR,33593.600000000006
+2024-03-04,-2012.56,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,31581.040000000005
+2024-03-05,-1775.9,Shopping,Local Mall,Shopping at Local Mall,debit,INR,29805.140000000003
+2024-03-05,-850.42,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,28954.720000000005
+2024-03-05,-1618.36,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,27336.360000000004
+2024-03-06,-1992.53,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,25343.830000000005
+2024-03-06,-3080.51,Shopping,Medical Store,Shopping at Medical Store,debit,INR,22263.320000000007
+2024-03-06,-334.95,Dining Out,Zomato,Dining Out at Zomato,debit,INR,21928.370000000006
+2024-03-06,-584.66,Shopping,Flipkart,Shopping at Flipkart,debit,INR,21343.710000000006
+2024-03-07,-1367.41,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,19976.300000000007
+2024-03-07,-343.46,Transport,Ola,Transport at Ola,debit,INR,19632.840000000007
+2024-03-08,-225.88,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,19406.960000000006
+2024-03-08,-499.38,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,18907.580000000005
+2024-03-09,-1204.8,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,17702.780000000006
+2024-03-09,-1447.92,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,16254.860000000006
+2024-03-10,-709.93,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,15544.930000000006
+2024-03-13,-2422.35,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,13122.580000000005
+2024-03-14,-551.33,Groceries,DMart,Groceries at DMart,debit,INR,12571.250000000005
+2024-03-14,-552.46,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,12018.790000000005
+2024-03-14,-432.06,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,11586.730000000005
+2024-03-15,-48.81,Transport,HP Petrol,Transport at HP Petrol,debit,INR,11537.920000000006
+2024-03-15,-1153.13,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,10384.790000000005
+2024-03-16,-866.11,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,9518.680000000004
+2024-03-16,-308.59,Shopping,Flipkart,Shopping at Flipkart,debit,INR,9210.090000000004
+2024-03-16,-651.62,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,8558.470000000003
+2024-03-16,-4743.96,Shopping,Flipkart,Shopping at Flipkart,debit,INR,3814.510000000003
+2024-03-17,-395.78,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,3418.730000000003
+2024-03-18,-685.33,Entertainment,Gym,Entertainment at Gym,debit,INR,2733.4000000000033
+2024-03-18,-694.4,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,2039.0000000000032
+2024-03-19,-2158.85,Shopping,Myntra,Shopping at Myntra,debit,INR,-119.84999999999673
+2024-03-19,-718.54,Other,Online Payment,Other at Online Payment,debit,INR,-838.3899999999967
+2024-03-20,-863.73,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,-1702.1199999999967
+2024-03-21,-1231.83,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-2933.9499999999966
+2024-03-21,-545.44,Transport,Uber,Transport at Uber,debit,INR,-3479.3899999999967
+2024-03-21,-928.07,Entertainment,Gym,Entertainment at Gym,debit,INR,-4407.459999999996
+2024-03-22,-376.95,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-4784.409999999996
+2024-03-22,-235.26,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,-5019.669999999996
+2024-03-23,-522.4,Transport,BMTC,Transport at BMTC,debit,INR,-5542.069999999996
+2024-03-23,-1246.79,Other,Miscellaneous,Other at Miscellaneous,debit,INR,-6788.859999999996
+2024-03-23,-554.56,Entertainment,Gym,Entertainment at Gym,debit,INR,-7343.419999999996
+2024-03-25,-274.89,Healthcare,Apollo Pharmacy,Healthcare at Apollo Pharmacy,debit,INR,-7618.309999999997
+2024-03-26,-837.77,Transport,BMTC,Transport at BMTC,debit,INR,-8456.079999999996
+2024-03-26,-948.83,Shopping,Medical Store,Shopping at Medical Store,debit,INR,-9404.909999999996
+2024-03-27,-159.03,Dining Out,KFC,Dining Out at KFC,debit,INR,-9563.939999999997
+2024-03-27,-1930.05,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-11493.989999999996
+2024-03-27,-1034.99,Utilities,Airtel,Utilities at Airtel,debit,INR,-12528.979999999996
+2024-03-28,-1675.81,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-14204.789999999995
+2024-03-28,-1002.5,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-15207.289999999995
+2024-03-28,-2321.41,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-17528.699999999997
+2024-03-28,-379.41,Dining Out,KFC,Dining Out at KFC,debit,INR,-17908.109999999997
+2024-03-29,-656.61,Dining Out,KFC,Dining Out at KFC,debit,INR,-18564.719999999998
+2024-03-29,-976.68,Utilities,Airtel,Utilities at Airtel,debit,INR,-19541.399999999998
+2024-03-30,-1422.13,Shopping,Medical Store,Shopping at Medical Store,debit,INR,-20963.53
+2024-03-30,-431.31,Transport,BMTC,Transport at BMTC,debit,INR,-21394.84
+2024-03-30,-838.19,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-22233.03
+2024-03-31,-1763.37,Shopping,Flipkart,Shopping at Flipkart,debit,INR,-23996.399999999998
+2024-03-31,-657.57,Groceries,DMart,Groceries at DMart,debit,INR,-24653.969999999998
+2024-03-31,-716.58,Dining Out,CCD,Dining Out at CCD,debit,INR,-25370.55
+2024-03-31,-1232.34,Groceries,DMart,Groceries at DMart,debit,INR,-26602.89
+2024-04-01,31603.78,Income,Tech Company,Monthly Salary,credit,INR,5000.889999999999
+2024-04-01,-350.2,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,4650.69
+2024-04-01,-1293.2,Other,UPI Transfer,Other at UPI Transfer,debit,INR,3357.49
+2024-04-02,-1405.08,Other,Online Payment,Other at Online Payment,debit,INR,1952.4099999999999
+2024-04-02,-2260.91,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-308.5
+2024-04-02,-460.92,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-769.4200000000001
+2024-04-03,-490.84,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,-1260.26
+2024-04-03,-127.35,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,-1387.61
+2024-04-03,-851.42,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,-2239.0299999999997
+2024-04-04,-667.89,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-2906.9199999999996
+2024-04-05,-74.42,Transport,Ola,Transport at Ola,debit,INR,-2981.3399999999997
+2024-04-05,-232.17,Transport,BMTC,Transport at BMTC,debit,INR,-3213.5099999999998
+2024-04-06,-5055.72,Shopping,Myntra,Shopping at Myntra,debit,INR,-8269.23
+2024-04-07,-248.1,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,-8517.33
+2024-04-08,-1905.16,Groceries,DMart,Groceries at DMart,debit,INR,-10422.49
+2024-04-08,-517.66,Shopping,Myntra,Shopping at Myntra,debit,INR,-10940.15
+2024-04-09,-220.5,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,-11160.65
+2024-04-11,-1351.0,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-12511.65
+2024-04-11,-646.31,Dining Out,KFC,Dining Out at KFC,debit,INR,-13157.96
+2024-04-12,-1097.05,Utilities,BESCOM,Utilities at BESCOM,debit,INR,-14255.009999999998
+2024-04-12,-196.4,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-14451.409999999998
+2024-04-12,-1349.94,Other,Online Payment,Other at Online Payment,debit,INR,-15801.349999999999
+2024-04-13,-294.92,Dining Out,Zomato,Dining Out at Zomato,debit,INR,-16096.269999999999
+2024-04-14,-577.83,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-16674.1
+2024-04-14,-385.59,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,-17059.69
+2024-04-15,-1226.71,Other,UPI Transfer,Other at UPI Transfer,debit,INR,-18286.399999999998
+2024-04-16,-833.47,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-19119.87
+2024-04-16,-666.43,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,-19786.3
+2024-04-17,-434.21,Dining Out,KFC,Dining Out at KFC,debit,INR,-20220.51
+2024-04-18,-2644.3,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-22864.809999999998
+2024-04-19,-1126.87,Shopping,Medical Store,Shopping at Medical Store,debit,INR,-23991.679999999997
+2024-04-19,-456.25,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-24447.929999999997
+2024-04-20,-164.53,Transport,Ola,Transport at Ola,debit,INR,-24612.459999999995
+2024-04-21,-628.24,Dining Out,CCD,Dining Out at CCD,debit,INR,-25240.699999999997
+2024-04-22,-1019.08,Other,UPI Transfer,Other at UPI Transfer,debit,INR,-26259.78
+2024-04-23,-4555.38,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-30815.16
+2024-04-24,-466.46,Healthcare,Hospital,Healthcare at Hospital,debit,INR,-31281.62
+2024-04-25,-274.18,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,-31555.8
+2024-04-26,-276.81,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,-31832.61
+2024-04-27,-232.77,Dining Out,KFC,Dining Out at KFC,debit,INR,-32065.38
+2024-04-28,-716.23,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,-32781.61
+2024-04-29,-447.46,Dining Out,KFC,Dining Out at KFC,debit,INR,-33229.07
+2024-04-29,-4040.13,Shopping,Medical Store,Shopping at Medical Store,debit,INR,-37269.2
+2024-04-30,-1028.22,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,-38297.42
+2024-04-30,-2694.33,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-40991.75
+2024-05-01,77332.29,Income,Tech Company,Monthly Salary,credit,INR,36340.53999999999
+2024-05-01,-704.15,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,35636.38999999999
+2024-05-02,-5104.51,Shopping,Amazon India,Shopping at Amazon India,debit,INR,30531.87999999999
+2024-05-02,-1080.49,Other,UPI Transfer,Other at UPI Transfer,debit,INR,29451.38999999999
+2024-05-02,-243.1,Transport,Indian Oil,Transport at Indian Oil,debit,INR,29208.28999999999
+2024-05-02,-1398.07,Shopping,Myntra,Shopping at Myntra,debit,INR,27810.21999999999
+2024-05-03,-1661.69,Groceries,DMart,Groceries at DMart,debit,INR,26148.52999999999
+2024-05-04,-316.25,Other,Online Payment,Other at Online Payment,debit,INR,25832.27999999999
+2024-05-04,-306.03,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,25526.249999999993
+2024-05-04,-462.76,Other,Miscellaneous,Other at Miscellaneous,debit,INR,25063.489999999994
+2024-05-05,-1552.0,Groceries,Spencer's,Groceries at Spencer's,debit,INR,23511.489999999994
+2024-05-06,-619.18,Shopping,Amazon India,Shopping at Amazon India,debit,INR,22892.309999999994
+2024-05-06,-556.65,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,22335.659999999993
+2024-05-06,-706.63,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,21629.02999999999
+2024-05-07,-185.28,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,21443.749999999993
+2024-05-08,-240.92,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,21202.829999999994
+2024-05-09,-1754.53,Groceries,Spencer's,Groceries at Spencer's,debit,INR,19448.299999999996
+2024-05-09,-769.55,Utilities,BESCOM,Utilities at BESCOM,debit,INR,18678.749999999996
+2024-05-09,-85.45,Dining Out,CCD,Dining Out at CCD,debit,INR,18593.299999999996
+2024-05-10,-399.94,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,18193.359999999997
+2024-05-10,-456.65,Transport,Uber,Transport at Uber,debit,INR,17736.709999999995
+2024-05-11,-222.67,Groceries,DMart,Groceries at DMart,debit,INR,17514.039999999997
+2024-05-11,-2439.05,Shopping,Local Mall,Shopping at Local Mall,debit,INR,15074.989999999998
+2024-05-12,-1265.79,Utilities,BESCOM,Utilities at BESCOM,debit,INR,13809.199999999997
+2024-05-12,-822.44,Transport,Uber,Transport at Uber,debit,INR,12986.759999999997
+2024-05-12,-1631.4,Healthcare,Hospital,Healthcare at Hospital,debit,INR,11355.359999999997
+2024-05-13,-2571.14,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,8784.219999999998
+2024-05-13,-457.46,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,8326.759999999998
+2024-05-14,-1432.13,Shopping,Local Mall,Shopping at Local Mall,debit,INR,6894.629999999998
+2024-05-14,-1043.76,Groceries,DMart,Groceries at DMart,debit,INR,5850.869999999998
+2024-05-14,-3134.4,Shopping,Local Mall,Shopping at Local Mall,debit,INR,2716.469999999998
+2024-05-14,-756.2,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,1960.269999999998
+2024-05-15,-148.68,Dining Out,Domino's,Dining Out at Domino's,debit,INR,1811.5899999999979
+2024-05-15,-658.55,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,1153.039999999998
+2024-05-16,-470.07,Groceries,Spencer's,Groceries at Spencer's,debit,INR,682.969999999998
+2024-05-17,-747.42,Entertainment,Gym,Entertainment at Gym,debit,INR,-64.45000000000198
+2024-05-18,-433.97,Entertainment,Gym,Entertainment at Gym,debit,INR,-498.420000000002
+2024-05-18,-1253.38,Other,UPI Transfer,Other at UPI Transfer,debit,INR,-1751.800000000002
+2024-05-19,-714.53,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,-2466.3300000000017
+2024-05-20,-339.17,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,-2805.500000000002
+2024-05-20,-485.38,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,-3290.880000000002
+2024-05-20,-1074.37,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-4365.250000000002
+2024-05-21,-606.5,Entertainment,Gym,Entertainment at Gym,debit,INR,-4971.750000000002
+2024-05-21,-625.68,Dining Out,Zomato,Dining Out at Zomato,debit,INR,-5597.430000000002
+2024-05-22,-1275.87,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-6873.300000000002
+2024-05-23,-544.73,Other,Miscellaneous,Other at Miscellaneous,debit,INR,-7418.0300000000025
+2024-05-23,-979.86,Groceries,DMart,Groceries at DMart,debit,INR,-8397.890000000003
+2024-05-23,-1522.69,Other,ATM,Other at ATM,debit,INR,-9920.580000000004
+2024-05-23,-1066.45,Groceries,DMart,Groceries at DMart,debit,INR,-10987.030000000004
+2024-05-24,-562.28,Utilities,BESCOM,Utilities at BESCOM,debit,INR,-11549.310000000005
+2024-05-24,-835.61,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-12384.920000000006
+2024-05-26,-402.6,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-12787.520000000006
+2024-05-26,-577.43,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,-13364.950000000006
+2024-05-27,-665.5,Dining Out,Domino's,Dining Out at Domino's,debit,INR,-14030.450000000006
+2024-05-28,-534.2,Transport,Ola,Transport at Ola,debit,INR,-14564.650000000007
+2024-05-28,-106.78,Transport,BMTC,Transport at BMTC,debit,INR,-14671.430000000008
+2024-05-29,-390.09,Transport,HP Petrol,Transport at HP Petrol,debit,INR,-15061.520000000008
+2024-05-30,-2960.89,Shopping,Myntra,Shopping at Myntra,debit,INR,-18022.410000000007
+2024-05-30,-722.96,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,-18745.370000000006
+2024-05-30,-234.64,Transport,Uber,Transport at Uber,debit,INR,-18980.010000000006
+2024-05-31,-480.9,Transport,HP Petrol,Transport at HP Petrol,debit,INR,-19460.910000000007
+2024-05-31,-751.93,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,-20212.840000000007
+2024-05-31,-589.37,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,-20802.210000000006
+2024-06-01,-1547.46,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-22349.670000000006
+2024-06-02,-20.64,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,-22370.310000000005
+2024-06-02,-336.14,Transport,Uber,Transport at Uber,debit,INR,-22706.450000000004
+2024-06-02,-105.65,Transport,BMTC,Transport at BMTC,debit,INR,-22812.100000000006
+2024-06-02,-753.94,Transport,HP Petrol,Transport at HP Petrol,debit,INR,-23566.040000000005
+2024-06-03,-796.6,Other,UPI Transfer,Other at UPI Transfer,debit,INR,-24362.640000000003
+2024-06-03,-1117.68,Entertainment,PVR Cinemas,Entertainment at PVR Cinemas,debit,INR,-25480.320000000003
+2024-06-04,-216.14,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-25696.460000000003
+2024-06-04,-307.37,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-26003.83
+2024-06-05,-1224.85,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-27228.68
+2024-06-05,-2583.29,Shopping,Flipkart,Shopping at Flipkart,debit,INR,-29811.97
+2024-06-06,-1891.22,Groceries,DMart,Groceries at DMart,debit,INR,-31703.190000000002
+2024-06-07,-1686.79,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-33389.98
+2024-06-07,-769.16,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,-34159.14000000001
+2024-06-08,-962.21,Healthcare,Apollo Pharmacy,Healthcare at Apollo Pharmacy,debit,INR,-35121.350000000006
+2024-06-08,-178.71,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,-35300.060000000005
+2024-06-09,-1161.24,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,-36461.3
+2024-06-09,-696.25,Transport,HP Petrol,Transport at HP Petrol,debit,INR,-37157.55
+2024-06-10,-2370.33,Shopping,Flipkart,Shopping at Flipkart,debit,INR,-39527.880000000005
+2024-06-10,-999.48,Healthcare,Apollo Pharmacy,Healthcare at Apollo Pharmacy,debit,INR,-40527.36000000001
+2024-06-11,-1186.42,Utilities,BWSSB,Utilities at BWSSB,debit,INR,-41713.780000000006
+2024-06-11,-1112.09,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,-42825.87
+2024-06-11,-490.96,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-43316.83
+2024-06-12,-1744.87,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,-45061.700000000004
+2024-06-12,-1217.63,Utilities,BESCOM,Utilities at BESCOM,debit,INR,-46279.33
+2024-06-13,-138.8,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,-46418.130000000005
+2024-06-13,-188.87,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,-46607.00000000001
+2024-06-14,-4429.37,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-51036.37000000001
+2024-06-14,-2120.93,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-53157.30000000001
+2024-06-14,-128.37,Other,UPI Transfer,Other at UPI Transfer,debit,INR,-53285.67000000001
+2024-06-16,-118.53,Dining Out,Zomato,Dining Out at Zomato,debit,INR,-53404.20000000001
+2024-06-17,-109.13,Transport,Uber,Transport at Uber,debit,INR,-53513.33000000001
+2024-06-18,-1407.49,Utilities,BESCOM,Utilities at BESCOM,debit,INR,-54920.82000000001
+2024-06-19,-799.35,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-55720.170000000006
+2024-06-19,-1521.81,Healthcare,Apollo Pharmacy,Healthcare at Apollo Pharmacy,debit,INR,-57241.98
+2024-06-20,-835.35,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,-58077.33
+2024-06-20,-362.16,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,-58439.490000000005
+2024-06-21,-2076.9,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-60516.39000000001
+2024-06-22,-2424.02,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-62940.41
+2024-06-22,-267.01,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,-63207.420000000006
+2024-06-23,-256.27,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-63463.69
+2024-06-23,-89.34,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-63553.03
+2024-06-23,-1001.24,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-64554.27
+2024-06-24,-1689.23,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-66243.5
+2024-06-24,-184.82,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,-66428.32
+2024-06-24,-2051.84,Groceries,DMart,Groceries at DMart,debit,INR,-68480.16
+2024-06-24,-483.28,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-68963.44
+2024-06-25,-509.93,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,-69473.37
+2024-06-25,-728.64,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-70202.01
+2024-06-26,-409.25,Entertainment,Gym,Entertainment at Gym,debit,INR,-70611.26
+2024-06-27,-761.37,Healthcare,Local Clinic,Healthcare at Local Clinic,debit,INR,-71372.62999999999
+2024-06-28,-2011.62,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-73384.24999999999
+2024-06-28,-1971.79,Utilities,Airtel,Utilities at Airtel,debit,INR,-75356.03999999998
+2024-06-28,-3173.44,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-78529.47999999998
+2024-06-29,-1330.71,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-79860.18999999999
+2024-06-30,112005.64,Income,MNC Corp,Monthly Salary,credit,INR,32145.45000000001
+2024-06-30,-579.32,Other,Miscellaneous,Other at Miscellaneous,debit,INR,31566.130000000012
+2024-07-01,58002.71,Income,Tech Company,Monthly Salary,credit,INR,89568.84000000001
+2024-07-01,-582.25,Transport,Uber,Transport at Uber,debit,INR,88986.59000000001
+2024-07-02,-3747.62,Shopping,Medical Store,Shopping at Medical Store,debit,INR,85238.97000000002
+2024-07-02,-926.51,Groceries,DMart,Groceries at DMart,debit,INR,84312.46000000002
+2024-07-04,-1372.71,Shopping,Flipkart,Shopping at Flipkart,debit,INR,82939.75000000001
+2024-07-06,-210.9,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,82728.85000000002
+2024-07-06,-969.63,Entertainment,PVR Cinemas,Entertainment at PVR Cinemas,debit,INR,81759.22000000002
+2024-07-06,-1729.11,Groceries,DMart,Groceries at DMart,debit,INR,80030.11000000002
+2024-07-07,-1010.86,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,79019.25000000001
+2024-07-08,-186.97,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,78832.28000000001
+2024-07-09,-2334.19,Groceries,Spencer's,Groceries at Spencer's,debit,INR,76498.09000000001
+2024-07-09,-552.52,Utilities,BESCOM,Utilities at BESCOM,debit,INR,75945.57
+2024-07-09,-262.54,Dining Out,CCD,Dining Out at CCD,debit,INR,75683.03000000001
+2024-07-10,-729.55,Healthcare,Local Clinic,Healthcare at Local Clinic,debit,INR,74953.48000000001
+2024-07-11,-1043.13,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,73910.35
+2024-07-11,-690.37,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,73219.98000000001
+2024-07-12,-2022.73,Groceries,Spencer's,Groceries at Spencer's,debit,INR,71197.25000000001
+2024-07-12,-1377.99,Healthcare,Hospital,Healthcare at Hospital,debit,INR,69819.26000000001
+2024-07-13,-993.97,Other,ATM,Other at ATM,debit,INR,68825.29000000001
+2024-07-13,-883.75,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,67941.54000000001
+2024-07-14,-511.16,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,67430.38
+2024-07-14,-1134.92,Groceries,DMart,Groceries at DMart,debit,INR,66295.46
+2024-07-14,-622.35,Transport,Ola,Transport at Ola,debit,INR,65673.11
+2024-07-14,-1810.23,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,63862.88
+2024-07-15,-913.62,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,62949.259999999995
+2024-07-15,-1849.18,Utilities,BESCOM,Utilities at BESCOM,debit,INR,61100.079999999994
+2024-07-16,-1011.08,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,60088.99999999999
+2024-07-17,-1111.85,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,58977.149999999994
+2024-07-17,-368.58,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,58608.56999999999
+2024-07-18,-280.98,Dining Out,Zomato,Dining Out at Zomato,debit,INR,58327.58999999999
+2024-07-19,-315.35,Transport,BMTC,Transport at BMTC,debit,INR,58012.23999999999
+2024-07-20,-606.14,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,57406.09999999999
+2024-07-20,-275.2,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,57130.899999999994
+2024-07-20,-615.22,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,56515.67999999999
+2024-07-21,-210.29,Transport,Indian Oil,Transport at Indian Oil,debit,INR,56305.38999999999
+2024-07-21,-634.9,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,55670.48999999999
+2024-07-22,-2351.38,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,53319.10999999999
+2024-07-22,-960.52,Shopping,Local Mall,Shopping at Local Mall,debit,INR,52358.59
+2024-07-22,-2029.79,Shopping,Medical Store,Shopping at Medical Store,debit,INR,50328.799999999996
+2024-07-22,-578.57,Dining Out,KFC,Dining Out at KFC,debit,INR,49750.229999999996
+2024-07-23,-1880.28,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,47869.95
+2024-07-24,-1858.39,Groceries,DMart,Groceries at DMart,debit,INR,46011.56
+2024-07-25,-2659.69,Shopping,Myntra,Shopping at Myntra,debit,INR,43351.869999999995
+2024-07-25,-406.42,Other,Online Payment,Other at Online Payment,debit,INR,42945.45
+2024-07-26,-2000.93,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,40944.52
+2024-07-27,-1077.93,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,39866.59
+2024-07-28,-752.74,Transport,HP Petrol,Transport at HP Petrol,debit,INR,39113.85
+2024-07-28,-1481.73,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,37632.119999999995
+2024-07-28,-319.19,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,37312.92999999999
+2024-07-29,-5143.89,Shopping,Local Mall,Shopping at Local Mall,debit,INR,32169.039999999994
+2024-07-30,-493.94,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,31675.099999999995
+2024-07-30,-4013.7,Shopping,Myntra,Shopping at Myntra,debit,INR,27661.399999999994
+2024-07-31,-1358.39,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,26303.009999999995
+2024-08-01,57624.3,Income,Tech Company,Monthly Salary,credit,INR,83927.31
+2024-08-01,-1122.52,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,82804.79
+2024-08-01,-2002.78,Groceries,DMart,Groceries at DMart,debit,INR,80802.01
+2024-08-01,-659.61,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,80142.4
+2024-08-02,-480.05,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,79662.34999999999
+2024-08-02,-972.78,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,78689.56999999999
+2024-08-02,-367.76,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,78321.81
+2024-08-03,-1425.34,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,76896.47
+2024-08-03,-782.02,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,76114.45
+2024-08-03,-1995.31,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,74119.14
+2024-08-04,-1078.51,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,73040.63
+2024-08-05,-396.66,Transport,Indian Oil,Transport at Indian Oil,debit,INR,72643.97
+2024-08-06,-193.93,Transport,Uber,Transport at Uber,debit,INR,72450.04000000001
+2024-08-06,-552.84,Transport,BMTC,Transport at BMTC,debit,INR,71897.20000000001
+2024-08-07,-703.76,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,71193.44000000002
+2024-08-07,-1969.86,Utilities,BESCOM,Utilities at BESCOM,debit,INR,69223.58000000002
+2024-08-07,-1424.12,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,67799.46000000002
+2024-08-08,-448.99,Dining Out,Domino's,Dining Out at Domino's,debit,INR,67350.47000000002
+2024-08-09,-1448.37,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,65902.10000000002
+2024-08-09,-163.04,Entertainment,Gym,Entertainment at Gym,debit,INR,65739.06000000003
+2024-08-09,-241.75,Transport,BMTC,Transport at BMTC,debit,INR,65497.31000000003
+2024-08-10,-563.95,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,64933.36000000003
+2024-08-11,-163.44,Transport,HP Petrol,Transport at HP Petrol,debit,INR,64769.92000000003
+2024-08-11,-586.15,Entertainment,Gym,Entertainment at Gym,debit,INR,64183.770000000026
+2024-08-11,-4586.52,Shopping,Myntra,Shopping at Myntra,debit,INR,59597.25000000003
+2024-08-12,-184.27,Entertainment,Gym,Entertainment at Gym,debit,INR,59412.98000000003
+2024-08-13,-534.98,Transport,Indian Oil,Transport at Indian Oil,debit,INR,58878.00000000003
+2024-08-14,-1657.49,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,57220.51000000003
+2024-08-15,-546.29,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,56674.22000000003
+2024-08-15,-1176.57,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,55497.65000000003
+2024-08-16,-446.22,Shopping,Local Mall,Shopping at Local Mall,debit,INR,55051.43000000003
+2024-08-16,-642.47,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,54408.96000000003
+2024-08-16,-1063.7,Other,Online Payment,Other at Online Payment,debit,INR,53345.26000000003
+2024-08-17,-487.7,Dining Out,CCD,Dining Out at CCD,debit,INR,52857.560000000034
+2024-08-17,-216.92,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,52640.640000000036
+2024-08-17,-193.66,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,52446.98000000003
+2024-08-18,-1798.02,Shopping,Amazon India,Shopping at Amazon India,debit,INR,50648.960000000036
+2024-08-19,-1709.44,Utilities,BWSSB,Utilities at BWSSB,debit,INR,48939.52000000003
+2024-08-19,-1247.43,Groceries,DMart,Groceries at DMart,debit,INR,47692.09000000003
+2024-08-19,-2587.95,Shopping,Medical Store,Shopping at Medical Store,debit,INR,45104.140000000036
+2024-08-21,-849.17,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,44254.97000000004
+2024-08-22,-1949.32,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,42305.65000000004
+2024-08-22,-566.16,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,41739.490000000034
+2024-08-23,-1593.59,Other,Online Payment,Other at Online Payment,debit,INR,40145.90000000004
+2024-08-23,-2774.93,Shopping,Medical Store,Shopping at Medical Store,debit,INR,37370.97000000004
+2024-08-25,-676.37,Transport,Ola,Transport at Ola,debit,INR,36694.600000000035
+2024-08-25,-433.1,Other,Online Payment,Other at Online Payment,debit,INR,36261.50000000004
+2024-08-25,-562.0,Dining Out,CCD,Dining Out at CCD,debit,INR,35699.50000000004
+2024-08-26,-2239.94,Shopping,Local Mall,Shopping at Local Mall,debit,INR,33459.560000000034
+2024-08-26,-975.51,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,32484.050000000036
+2024-08-27,-1503.46,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,30980.590000000037
+2024-08-27,-873.93,Transport,HP Petrol,Transport at HP Petrol,debit,INR,30106.660000000036
+2024-08-27,-1434.41,Healthcare,Hospital,Healthcare at Hospital,debit,INR,28672.250000000036
+2024-08-28,-1992.58,Other,ATM,Other at ATM,debit,INR,26679.670000000035
+2024-08-28,-823.83,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,25855.840000000033
+2024-08-28,-2056.79,Shopping,Medical Store,Shopping at Medical Store,debit,INR,23799.050000000032
+2024-08-29,-579.95,Transport,Indian Oil,Transport at Indian Oil,debit,INR,23219.10000000003
+2024-08-29,-3004.33,Shopping,Amazon India,Shopping at Amazon India,debit,INR,20214.770000000033
+2024-08-29,-84.4,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,20130.37000000003
+2024-08-30,-275.52,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,19854.85000000003
+2024-08-31,-390.03,Transport,Ola,Transport at Ola,debit,INR,19464.820000000032
+2024-09-01,-226.02,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,19238.800000000032
+2024-09-02,-3188.21,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,16050.590000000033
+2024-09-03,-560.64,Entertainment,PVR Cinemas,Entertainment at PVR Cinemas,debit,INR,15489.950000000033
+2024-09-03,-310.77,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,15179.180000000033
+2024-09-03,-395.17,Transport,BMTC,Transport at BMTC,debit,INR,14784.010000000033
+2024-09-04,-293.98,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,14490.030000000033
+2024-09-04,-584.52,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,13905.510000000033
+2024-09-04,-2191.98,Groceries,Spencer's,Groceries at Spencer's,debit,INR,11713.530000000033
+2024-09-04,-1422.69,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,10290.840000000033
+2024-09-05,-811.55,Groceries,Spencer's,Groceries at Spencer's,debit,INR,9479.290000000034
+2024-09-05,-4337.41,Shopping,Amazon India,Shopping at Amazon India,debit,INR,5141.880000000034
+2024-09-05,-2362.25,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,2779.6300000000338
+2024-09-06,-1529.99,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,1249.6400000000338
+2024-09-06,-2093.38,Groceries,DMart,Groceries at DMart,debit,INR,-843.7399999999664
+2024-09-07,-596.84,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-1440.5799999999663
+2024-09-08,-405.4,Shopping,Flipkart,Shopping at Flipkart,debit,INR,-1845.9799999999664
+2024-09-08,-402.55,Transport,HP Petrol,Transport at HP Petrol,debit,INR,-2248.5299999999665
+2024-09-08,-3452.12,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-5700.649999999967
+2024-09-10,-1681.19,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-7381.839999999967
+2024-09-10,-2874.08,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-10255.919999999967
+2024-09-11,-1560.4,Shopping,Local Mall,Shopping at Local Mall,debit,INR,-11816.319999999967
+2024-09-11,-759.11,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,-12575.429999999968
+2024-09-12,-504.13,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-13079.559999999967
+2024-09-13,-399.63,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,-13479.189999999966
+2024-09-13,-677.09,Other,Online Payment,Other at Online Payment,debit,INR,-14156.279999999966
+2024-09-14,-395.11,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,-14551.389999999967
+2024-09-14,-358.27,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,-14909.659999999967
+2024-09-15,-214.89,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-15124.549999999967
+2024-09-15,-3722.9,Shopping,Myntra,Shopping at Myntra,debit,INR,-18847.449999999968
+2024-09-16,-1657.76,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-20505.209999999966
+2024-09-16,-282.72,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-20787.929999999968
+2024-09-17,-534.22,Healthcare,Local Clinic,Healthcare at Local Clinic,debit,INR,-21322.14999999997
+2024-09-18,-645.29,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,-21967.43999999997
+2024-09-19,-2107.62,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-24075.05999999997
+2024-09-19,-359.59,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-24434.64999999997
+2024-09-20,-136.74,Dining Out,KFC,Dining Out at KFC,debit,INR,-24571.38999999997
+2024-09-21,-1301.74,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,-25873.129999999972
+2024-09-23,-865.56,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,-26738.689999999973
+2024-09-23,-1461.7,Other,Online Payment,Other at Online Payment,debit,INR,-28200.389999999974
+2024-09-24,-460.83,Other,Online Payment,Other at Online Payment,debit,INR,-28661.219999999976
+2024-09-24,-612.47,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,-29273.689999999977
+2024-09-24,-340.39,Transport,Indian Oil,Transport at Indian Oil,debit,INR,-29614.079999999976
+2024-09-25,-1246.92,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,-30860.999999999978
+2024-09-25,-277.01,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-31138.009999999977
+2024-09-25,-1413.83,Utilities,BESCOM,Utilities at BESCOM,debit,INR,-32551.839999999975
+2024-09-26,-977.61,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-33529.449999999975
+2024-09-27,-1161.96,Other,Miscellaneous,Other at Miscellaneous,debit,INR,-34691.409999999974
+2024-09-28,-885.31,Other,UPI Transfer,Other at UPI Transfer,debit,INR,-35576.71999999997
+2024-09-30,-738.44,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,-36315.159999999974
+2024-09-30,77866.66,Income,MNC Corp,Monthly Salary,credit,INR,41551.50000000003
+2024-10-01,-632.6,Dining Out,CCD,Dining Out at CCD,debit,INR,40918.90000000003
+2024-10-01,-2326.35,Groceries,DMart,Groceries at DMart,debit,INR,38592.55000000003
+2024-10-04,-277.78,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,38314.77000000003
+2024-10-05,-647.61,Groceries,Spencer's,Groceries at Spencer's,debit,INR,37667.16000000003
+2024-10-05,-169.53,Transport,Ola,Transport at Ola,debit,INR,37497.630000000034
+2024-10-06,-565.02,Other,Online Payment,Other at Online Payment,debit,INR,36932.61000000004
+2024-10-07,-976.23,Groceries,DMart,Groceries at DMart,debit,INR,35956.380000000034
+2024-10-07,-3710.56,Shopping,Flipkart,Shopping at Flipkart,debit,INR,32245.820000000032
+2024-10-08,-623.73,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,31622.090000000033
+2024-10-08,-1038.84,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,30583.250000000033
+2024-10-08,-1201.27,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,29381.980000000032
+2024-10-09,-3317.12,Shopping,Flipkart,Shopping at Flipkart,debit,INR,26064.860000000033
+2024-10-09,-2503.98,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,23560.880000000034
+2024-10-10,-1084.8,Entertainment,Gym,Entertainment at Gym,debit,INR,22476.080000000034
+2024-10-10,-1292.18,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,21183.900000000034
+2024-10-10,-272.38,Dining Out,KFC,Dining Out at KFC,debit,INR,20911.520000000033
+2024-10-11,-418.03,Groceries,DMart,Groceries at DMart,debit,INR,20493.490000000034
+2024-10-11,-1579.19,Other,ATM,Other at ATM,debit,INR,18914.300000000036
+2024-10-12,-662.7,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,18251.600000000035
+2024-10-12,-2384.79,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,15866.810000000034
+2024-10-12,-1621.44,Utilities,Airtel,Utilities at Airtel,debit,INR,14245.370000000034
+2024-10-13,-822.14,Groceries,Spencer's,Groceries at Spencer's,debit,INR,13423.230000000034
+2024-10-14,-1294.16,Shopping,Medical Store,Shopping at Medical Store,debit,INR,12129.070000000034
+2024-10-14,-89.05,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,12040.020000000035
+2024-10-14,-641.82,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,11398.200000000035
+2024-10-16,-972.64,Entertainment,PVR Cinemas,Entertainment at PVR Cinemas,debit,INR,10425.560000000036
+2024-10-16,-429.11,Other,ATM,Other at ATM,debit,INR,9996.450000000035
+2024-10-17,-856.32,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,9140.130000000036
+2024-10-18,-541.02,Utilities,Reliance Jio,Utilities at Reliance Jio,debit,INR,8599.110000000035
+2024-10-18,-598.75,Transport,BMTC,Transport at BMTC,debit,INR,8000.360000000035
+2024-10-18,-854.89,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,7145.470000000035
+2024-10-19,-413.24,Other,UPI Transfer,Other at UPI Transfer,debit,INR,6732.230000000035
+2024-10-19,-473.1,Transport,Uber,Transport at Uber,debit,INR,6259.130000000035
+2024-10-19,-1190.75,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,5068.380000000035
+2024-10-20,-594.23,Healthcare,Medical Tests,Healthcare at Medical Tests,debit,INR,4474.150000000034
+2024-10-20,-2123.41,Other,ATM,Other at ATM,debit,INR,2350.7400000000343
+2024-10-20,-1596.57,Utilities,DTH Recharge,Utilities at DTH Recharge,debit,INR,754.1700000000344
+2024-10-21,-1424.77,Shopping,Flipkart,Shopping at Flipkart,debit,INR,-670.5999999999656
+2024-10-22,-1198.61,Shopping,Amazon India,Shopping at Amazon India,debit,INR,-1869.2099999999655
+2024-10-23,-3518.41,Shopping,Flipkart,Shopping at Flipkart,debit,INR,-5387.619999999965
+2024-10-24,-646.97,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,-6034.589999999966
+2024-10-24,-160.91,Dining Out,Zomato,Dining Out at Zomato,debit,INR,-6195.499999999965
+2024-10-25,-1595.21,Groceries,DMart,Groceries at DMart,debit,INR,-7790.7099999999655
+2024-10-25,-925.68,Other,Online Payment,Other at Online Payment,debit,INR,-8716.389999999965
+2024-10-26,-649.48,Transport,BMTC,Transport at BMTC,debit,INR,-9365.869999999964
+2024-10-26,-532.61,Utilities,Airtel,Utilities at Airtel,debit,INR,-9898.479999999965
+2024-10-26,-2114.32,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-12012.799999999965
+2024-10-27,-1204.61,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,-13217.409999999965
+2024-10-27,-1237.96,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,-14455.369999999966
+2024-10-28,-439.76,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-14895.129999999966
+2024-10-30,-1961.46,Groceries,Spencer's,Groceries at Spencer's,debit,INR,-16856.589999999967
+2024-10-31,78448.68,Income,Tech Company,Monthly Salary,credit,INR,61592.090000000026
+2024-10-31,-1820.46,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,59771.63000000003
+2024-10-31,-2287.69,Shopping,Amazon India,Shopping at Amazon India,debit,INR,57483.940000000024
+2024-10-31,-5198.69,Shopping,Brand Factory,Shopping at Brand Factory,debit,INR,52285.25000000002
+2024-10-31,-1110.05,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,51175.20000000002
+2024-11-01,-1334.03,Utilities,Gas Agency,Utilities at Gas Agency,debit,INR,49841.17000000002
+2024-11-02,-1707.8,Groceries,Spencer's,Groceries at Spencer's,debit,INR,48133.37000000002
+2024-11-03,-751.43,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,47381.94000000002
+2024-11-04,-285.92,Entertainment,Gym,Entertainment at Gym,debit,INR,47096.02000000002
+2024-11-05,-605.89,Healthcare,Doctor Visit,Healthcare at Doctor Visit,debit,INR,46490.13000000002
+2024-11-05,-796.21,Transport,Uber,Transport at Uber,debit,INR,45693.92000000002
+2024-11-06,-465.14,Utilities,BESCOM,Utilities at BESCOM,debit,INR,45228.78000000002
+2024-11-08,-1598.71,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,43630.07000000002
+2024-11-08,-683.56,Shopping,Local Mall,Shopping at Local Mall,debit,INR,42946.510000000024
+2024-11-09,-643.92,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,42302.590000000026
+2024-11-10,-1366.4,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,40936.190000000024
+2024-11-11,-320.1,Dining Out,Swiggy,Dining Out at Swiggy,debit,INR,40616.090000000026
+2024-11-11,-965.98,Groceries,Spencer's,Groceries at Spencer's,debit,INR,39650.11000000002
+2024-11-12,-874.16,Entertainment,PVR Cinemas,Entertainment at PVR Cinemas,debit,INR,38775.95000000002
+2024-11-13,-3780.18,Shopping,Flipkart,Shopping at Flipkart,debit,INR,34995.77000000002
+2024-11-13,-936.35,Groceries,DMart,Groceries at DMart,debit,INR,34059.42000000002
+2024-11-13,-883.23,Transport,BMTC,Transport at BMTC,debit,INR,33176.19000000002
+2024-11-14,-1440.85,Other,UPI Transfer,Other at UPI Transfer,debit,INR,31735.34000000002
+2024-11-14,-211.05,Other,UPI Transfer,Other at UPI Transfer,debit,INR,31524.29000000002
+2024-11-15,-468.46,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,31055.83000000002
+2024-11-16,-687.57,Other,Online Payment,Other at Online Payment,debit,INR,30368.26000000002
+2024-11-17,-2028.14,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,28340.12000000002
+2024-11-17,-179.16,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,28160.96000000002
+2024-11-18,-589.56,Transport,Ola,Transport at Ola,debit,INR,27571.40000000002
+2024-11-20,-178.28,Dining Out,Domino's,Dining Out at Domino's,debit,INR,27393.12000000002
+2024-11-20,-295.88,Other,UPI Transfer,Other at UPI Transfer,debit,INR,27097.24000000002
+2024-11-20,-1064.63,Entertainment,Netflix India,Entertainment at Netflix India,debit,INR,26032.61000000002
+2024-11-21,-112.12,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,25920.49000000002
+2024-11-22,-3684.4,Shopping,Medical Store,Shopping at Medical Store,debit,INR,22236.09000000002
+2024-11-22,-1172.95,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,21063.140000000018
+2024-11-23,-2047.83,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,19015.31000000002
+2024-11-23,-1090.5,Utilities,Airtel,Utilities at Airtel,debit,INR,17924.81000000002
+2024-11-24,-697.43,Transport,Indian Oil,Transport at Indian Oil,debit,INR,17227.38000000002
+2024-11-24,-539.35,Other,UPI Transfer,Other at UPI Transfer,debit,INR,16688.03000000002
+2024-11-25,-1215.25,Other,ATM,Other at ATM,debit,INR,15472.78000000002
+2024-11-26,-362.3,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,15110.480000000021
+2024-11-26,-1961.03,Shopping,Amazon India,Shopping at Amazon India,debit,INR,13149.45000000002
+2024-11-27,-2940.91,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,10208.54000000002
+2024-11-27,-699.26,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,9509.28000000002
+2024-11-27,-972.59,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,8536.69000000002
+2024-11-28,-3874.31,Shopping,Medical Store,Shopping at Medical Store,debit,INR,4662.380000000021
+2024-11-28,-1109.35,Groceries,DMart,Groceries at DMart,debit,INR,3553.030000000021
+2024-11-29,-171.99,Dining Out,Domino's,Dining Out at Domino's,debit,INR,3381.040000000021
+2024-11-29,-581.56,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,2799.480000000021
+2024-11-30,-477.57,Dining Out,KFC,Dining Out at KFC,debit,INR,2321.910000000021
+2024-11-30,-633.58,Entertainment,BookMyShow,Entertainment at BookMyShow,debit,INR,1688.3300000000208
+2024-11-30,77197.15,Income,MNC Corp,Monthly Salary,credit,INR,78885.48000000001
+2024-11-30,-338.1,Dining Out,Domino's,Dining Out at Domino's,debit,INR,78547.38
+2024-12-01,43395.52,Income,Tech Company,Monthly Salary,credit,INR,121942.9
+2024-12-02,-724.27,Transport,Ola,Transport at Ola,debit,INR,121218.62999999999
+2024-12-02,-459.66,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,120758.96999999999
+2024-12-03,-390.96,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,120368.00999999998
+2024-12-04,-1733.71,Groceries,Spencer's,Groceries at Spencer's,debit,INR,118634.29999999997
+2024-12-05,-2657.54,Shopping,Local Mall,Shopping at Local Mall,debit,INR,115976.75999999998
+2024-12-05,-726.33,Other,Miscellaneous,Other at Miscellaneous,debit,INR,115250.42999999998
+2024-12-05,-2737.88,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,112512.54999999997
+2024-12-06,-3913.82,Shopping,Amazon India,Shopping at Amazon India,debit,INR,108598.72999999997
+2024-12-07,-1455.72,Groceries,Spencer's,Groceries at Spencer's,debit,INR,107143.00999999997
+2024-12-07,-479.11,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,106663.89999999997
+2024-12-08,-389.1,Dining Out,Domino's,Dining Out at Domino's,debit,INR,106274.79999999996
+2024-12-09,-649.69,Shopping,Flipkart,Shopping at Flipkart,debit,INR,105625.10999999996
+2024-12-09,-2155.84,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,103469.26999999996
+2024-12-10,-296.18,Dining Out,Zomato,Dining Out at Zomato,debit,INR,103173.08999999997
+2024-12-12,-406.56,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,102766.52999999997
+2024-12-12,-884.98,Groceries,Reliance Fresh,Groceries at Reliance Fresh,debit,INR,101881.54999999997
+2024-12-12,-216.35,Transport,HP Petrol,Transport at HP Petrol,debit,INR,101665.19999999997
+2024-12-13,-880.19,Healthcare,Hospital,Healthcare at Hospital,debit,INR,100785.00999999997
+2024-12-13,-609.03,Shopping,Medical Store,Shopping at Medical Store,debit,INR,100175.97999999997
+2024-12-14,-241.26,Transport,Uber,Transport at Uber,debit,INR,99934.71999999997
+2024-12-14,-432.95,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,99501.76999999997
+2024-12-15,-416.35,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,99085.41999999997
+2024-12-16,-2909.57,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,96175.84999999996
+2024-12-17,-1408.24,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,94767.60999999996
+2024-12-17,-945.76,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,93821.84999999996
+2024-12-18,-3584.86,Shopping,Medical Store,Shopping at Medical Store,debit,INR,90236.98999999996
+2024-12-18,-533.72,Dining Out,Zomato,Dining Out at Zomato,debit,INR,89703.26999999996
+2024-12-18,-1661.85,Groceries,Big Bazaar,Groceries at Big Bazaar,debit,INR,88041.41999999995
+2024-12-19,-914.11,Groceries,Local Kirana,Groceries at Local Kirana,debit,INR,87127.30999999995
+2024-12-19,-2277.0,Shopping,Amazon India,Shopping at Amazon India,debit,INR,84850.30999999995
+2024-12-20,-903.59,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,INR,83946.71999999996
+2024-12-20,-842.73,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,83103.98999999996
+2024-12-21,-1472.57,Groceries,Spencer's,Groceries at Spencer's,debit,INR,81631.41999999995
+2024-12-21,-1009.25,Groceries,Spencer's,Groceries at Spencer's,debit,INR,80622.16999999995
+2024-12-22,-1719.3,Groceries,More Supermarket,Groceries at More Supermarket,debit,INR,78902.86999999995
+2024-12-22,-549.52,Dining Out,Local Restaurant,Dining Out at Local Restaurant,debit,INR,78353.34999999995
+2024-12-23,-387.97,Dining Out,McDonald's India,Dining Out at McDonald's India,debit,INR,77965.37999999995
+2024-12-25,-534.7,Transport,Auto Rickshaw,Transport at Auto Rickshaw,debit,INR,77430.67999999995
+2024-12-27,-522.14,Transport,Uber,Transport at Uber,debit,INR,76908.53999999995
+2024-12-27,-511.74,Entertainment,Hotstar,Entertainment at Hotstar,debit,INR,76396.79999999994
+2024-12-28,-352.57,Transport,Delhi Metro,Transport at Delhi Metro,debit,INR,76044.22999999994
+2024-12-29,-1634.76,Shopping,Flipkart,Shopping at Flipkart,debit,INR,74409.46999999994
+2024-12-30,-590.35,Other,UPI Transfer,Other at UPI Transfer,debit,INR,73819.11999999994
+2024-12-30,-1757.7,Groceries,DMart,Groceries at DMart,debit,INR,72061.41999999994
+2024-12-31,-385.91,Entertainment,Gym,Entertainment at Gym,debit,INR,71675.50999999994

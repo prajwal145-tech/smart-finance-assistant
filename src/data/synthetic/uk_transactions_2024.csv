@@ -1,0 +1,618 @@
+date,amount,category,merchant,description,type,currency,balance
+2024-01-01,5277.23,Income,Company Ltd,Monthly Salary,credit,GBP,5277.23
+2024-01-01,-118.46,Shopping,M&S,Shopping at M&S,debit,GBP,5158.7699999999995
+2024-01-02,-176.71,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,4982.0599999999995
+2024-01-03,-35.67,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,4946.389999999999
+2024-01-03,-140.28,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,4806.11
+2024-01-03,-14.18,Transport,Shell,Transport at Shell,debit,GBP,4791.929999999999
+2024-01-04,-105.21,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,4686.719999999999
+2024-01-05,-94.9,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,4591.82
+2024-01-06,-39.62,Groceries,Tesco,Groceries at Tesco,debit,GBP,4552.2
+2024-01-07,-73.34,Groceries,Aldi,Groceries at Aldi,debit,GBP,4478.86
+2024-01-07,-57.94,Entertainment,Football Tickets,Entertainment at Football Tickets,debit,GBP,4420.92
+2024-01-08,-51.41,Groceries,Tesco,Groceries at Tesco,debit,GBP,4369.51
+2024-01-09,-11.58,Entertainment,Football Tickets,Entertainment at Football Tickets,debit,GBP,4357.93
+2024-01-09,-190.05,Shopping,H&M,Shopping at H&M,debit,GBP,4167.88
+2024-01-10,-15.47,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,4152.41
+2024-01-10,-25.64,Groceries,ASDA,Groceries at ASDA,debit,GBP,4126.7699999999995
+2024-01-11,-78.41,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,4048.3599999999997
+2024-01-12,-9.34,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,4039.0199999999995
+2024-01-13,-89.3,Groceries,Lidl,Groceries at Lidl,debit,GBP,3949.7199999999993
+2024-01-13,-26.39,Other,Online Purchase,Other at Online Purchase,debit,GBP,3923.3299999999995
+2024-01-13,-36.07,Groceries,Aldi,Groceries at Aldi,debit,GBP,3887.2599999999993
+2024-01-14,-102.17,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,3785.0899999999992
+2024-01-14,-26.72,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,3758.3699999999994
+2024-01-15,-37.67,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,3720.6999999999994
+2024-01-16,-12.97,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,3707.7299999999996
+2024-01-17,-46.61,Other,Online Purchase,Other at Online Purchase,debit,GBP,3661.1199999999994
+2024-01-18,-4.23,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,3656.8899999999994
+2024-01-18,-138.07,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,3518.8199999999993
+2024-01-19,-7.45,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,3511.3699999999994
+2024-01-19,-64.87,Groceries,Lidl,Groceries at Lidl,debit,GBP,3446.4999999999995
+2024-01-20,-89.19,Utilities,BT,Utilities at BT,debit,GBP,3357.3099999999995
+2024-01-20,-61.07,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,3296.2399999999993
+2024-01-21,-65.05,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,3231.189999999999
+2024-01-22,-88.68,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,3142.5099999999993
+2024-01-22,-161.22,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,2981.2899999999995
+2024-01-23,-19.57,Transport,First Bus,Transport at First Bus,debit,GBP,2961.7199999999993
+2024-01-23,-135.21,Shopping,H&M,Shopping at H&M,debit,GBP,2826.5099999999993
+2024-01-23,-13.71,Transport,TfL,Transport at TfL,debit,GBP,2812.7999999999993
+2024-01-24,-61.45,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,2751.3499999999995
+2024-01-25,-117.3,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,2634.0499999999993
+2024-01-26,-102.43,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,2531.6199999999994
+2024-01-26,-79.1,Groceries,Tesco,Groceries at Tesco,debit,GBP,2452.5199999999995
+2024-01-26,-15.72,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,2436.7999999999997
+2024-01-26,-85.97,Groceries,Aldi,Groceries at Aldi,debit,GBP,2350.83
+2024-01-27,-145.39,Shopping,Boots,Shopping at Boots,debit,GBP,2205.44
+2024-01-28,-52.38,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,2153.06
+2024-01-28,-51.59,Groceries,ASDA,Groceries at ASDA,debit,GBP,2101.47
+2024-01-29,-69.95,Shopping,Next,Shopping at Next,debit,GBP,2031.5199999999998
+2024-01-31,-91.23,Groceries,Iceland,Groceries at Iceland,debit,GBP,1940.2899999999997
+2024-01-31,-79.72,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,1860.5699999999997
+2024-01-31,-38.94,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,1821.6299999999997
+2024-02-01,5721.64,Income,Company Ltd,Monthly Salary,credit,GBP,7543.27
+2024-02-01,-53.12,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,7490.150000000001
+2024-02-02,-179.69,Shopping,Zara,Shopping at Zara,debit,GBP,7310.460000000001
+2024-02-02,-25.58,Groceries,Lidl,Groceries at Lidl,debit,GBP,7284.880000000001
+2024-02-02,-23.75,Transport,Shell,Transport at Shell,debit,GBP,7261.130000000001
+2024-02-03,-61.38,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,7199.750000000001
+2024-02-04,-22.93,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,7176.820000000001
+2024-02-05,-42.16,Transport,First Bus,Transport at First Bus,debit,GBP,7134.660000000001
+2024-02-06,-53.11,Transport,TfL,Transport at TfL,debit,GBP,7081.550000000001
+2024-02-06,-42.51,Utilities,British Gas,Utilities at British Gas,debit,GBP,7039.040000000001
+2024-02-07,-48.18,Groceries,Lidl,Groceries at Lidl,debit,GBP,6990.860000000001
+2024-02-07,-9.37,Transport,First Bus,Transport at First Bus,debit,GBP,6981.490000000001
+2024-02-08,-63.25,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,6918.240000000001
+2024-02-09,-22.34,Transport,National Rail,Transport at National Rail,debit,GBP,6895.900000000001
+2024-02-10,-42.04,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,6853.860000000001
+2024-02-10,-15.64,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,6838.22
+2024-02-11,-63.12,Groceries,Aldi,Groceries at Aldi,debit,GBP,6775.1
+2024-02-11,-21.6,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,6753.5
+2024-02-12,-152.06,Utilities,British Gas,Utilities at British Gas,debit,GBP,6601.44
+2024-02-13,-50.39,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,6551.049999999999
+2024-02-13,-106.51,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,6444.539999999999
+2024-02-14,-7.27,Transport,First Bus,Transport at First Bus,debit,GBP,6437.269999999999
+2024-02-15,-35.12,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,6402.149999999999
+2024-02-16,-45.65,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,6356.499999999999
+2024-02-17,-68.11,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,6288.389999999999
+2024-02-18,-73.44,Utilities,EDF Energy,Utilities at EDF Energy,debit,GBP,6214.95
+2024-02-19,-50.87,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,6164.08
+2024-02-19,-17.31,Transport,Shell,Transport at Shell,debit,GBP,6146.7699999999995
+2024-02-20,-145.15,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,6001.62
+2024-02-20,-22.17,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,5979.45
+2024-02-20,-20.71,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,5958.74
+2024-02-21,-69.04,Groceries,Lidl,Groceries at Lidl,debit,GBP,5889.7
+2024-02-21,-11.44,Transport,National Rail,Transport at National Rail,debit,GBP,5878.26
+2024-02-21,-87.15,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,5791.110000000001
+2024-02-22,-78.12,Groceries,Lidl,Groceries at Lidl,debit,GBP,5712.990000000001
+2024-02-22,-74.22,Shopping,H&M,Shopping at H&M,debit,GBP,5638.77
+2024-02-23,-72.45,Groceries,Tesco,Groceries at Tesco,debit,GBP,5566.320000000001
+2024-02-24,-26.24,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,5540.080000000001
+2024-02-25,-34.63,Groceries,Iceland,Groceries at Iceland,debit,GBP,5505.450000000001
+2024-02-26,-42.22,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,5463.2300000000005
+2024-02-27,-93.12,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,5370.110000000001
+2024-02-28,-120.13,Groceries,ASDA,Groceries at ASDA,debit,GBP,5249.9800000000005
+2024-02-29,-45.61,Shopping,M&S,Shopping at M&S,debit,GBP,5204.370000000001
+2024-02-29,-92.38,Utilities,Sky,Utilities at Sky,debit,GBP,5111.990000000001
+2024-03-01,-166.67,Shopping,M&S,Shopping at M&S,debit,GBP,4945.320000000001
+2024-03-01,5982.37,Income,Company Ltd,Monthly Salary,credit,GBP,10927.69
+2024-03-02,-38.79,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,10888.9
+2024-03-02,-54.86,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,10834.039999999999
+2024-03-02,-29.93,Groceries,Lidl,Groceries at Lidl,debit,GBP,10804.109999999999
+2024-03-03,-6.41,Transport,Shell,Transport at Shell,debit,GBP,10797.699999999999
+2024-03-03,-44.69,Utilities,British Gas,Utilities at British Gas,debit,GBP,10753.009999999998
+2024-03-03,-24.59,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,10728.419999999998
+2024-03-04,-35.99,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,10692.429999999998
+2024-03-04,-31.16,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,10661.269999999999
+2024-03-05,-30.95,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,10630.319999999998
+2024-03-05,-34.83,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,10595.489999999998
+2024-03-06,-43.51,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,10551.979999999998
+2024-03-06,-109.67,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,10442.309999999998
+2024-03-06,-27.81,Transport,First Bus,Transport at First Bus,debit,GBP,10414.499999999998
+2024-03-07,-110.7,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,10303.799999999997
+2024-03-07,-84.54,Transport,First Bus,Transport at First Bus,debit,GBP,10219.259999999997
+2024-03-09,-56.93,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,10162.329999999996
+2024-03-11,-59.71,Other,Online Purchase,Other at Online Purchase,debit,GBP,10102.619999999997
+2024-03-11,-87.77,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,10014.849999999997
+2024-03-11,-73.08,Shopping,Boots,Shopping at Boots,debit,GBP,9941.769999999997
+2024-03-11,-110.88,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,9830.889999999998
+2024-03-12,-3.49,Transport,National Rail,Transport at National Rail,debit,GBP,9827.399999999998
+2024-03-13,-64.02,Transport,TfL,Transport at TfL,debit,GBP,9763.379999999997
+2024-03-13,-66.32,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,9697.059999999998
+2024-03-13,-66.72,Transport,BP,Transport at BP,debit,GBP,9630.339999999998
+2024-03-14,-85.74,Shopping,Boots,Shopping at Boots,debit,GBP,9544.599999999999
+2024-03-16,-68.13,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,9476.47
+2024-03-17,-126.09,Groceries,ASDA,Groceries at ASDA,debit,GBP,9350.38
+2024-03-17,-38.87,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,9311.509999999998
+2024-03-19,-22.82,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,9288.689999999999
+2024-03-19,-93.74,Utilities,British Gas,Utilities at British Gas,debit,GBP,9194.949999999999
+2024-03-19,-84.59,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,9110.359999999999
+2024-03-20,-10.68,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,9099.679999999998
+2024-03-21,-190.33,Shopping,H&M,Shopping at H&M,debit,GBP,8909.349999999999
+2024-03-21,-35.12,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,8874.229999999998
+2024-03-22,-59.42,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,8814.809999999998
+2024-03-22,-164.59,Shopping,Next,Shopping at Next,debit,GBP,8650.219999999998
+2024-03-23,-121.74,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,8528.479999999998
+2024-03-24,-67.97,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,8460.509999999998
+2024-03-24,-6.97,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,8453.539999999999
+2024-03-25,-36.45,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,8417.089999999998
+2024-03-25,-127.33,Utilities,Sky,Utilities at Sky,debit,GBP,8289.759999999998
+2024-03-25,-50.42,Groceries,Aldi,Groceries at Aldi,debit,GBP,8239.339999999998
+2024-03-26,-8.11,Other,Online Purchase,Other at Online Purchase,debit,GBP,8231.229999999998
+2024-03-27,-27.39,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,8203.839999999998
+2024-03-27,-85.13,Utilities,Sky,Utilities at Sky,debit,GBP,8118.709999999998
+2024-03-28,-29.22,Transport,TfL,Transport at TfL,debit,GBP,8089.489999999998
+2024-03-29,-23.94,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,8065.549999999998
+2024-03-30,-10.79,Transport,BP,Transport at BP,debit,GBP,8054.759999999998
+2024-03-31,-113.48,Utilities,BT,Utilities at BT,debit,GBP,7941.279999999999
+2024-03-31,-9.37,Healthcare,Opticians,Healthcare at Opticians,debit,GBP,7931.909999999999
+2024-03-31,-81.73,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,7850.179999999999
+2024-04-01,3330.51,Income,Employer Inc,Monthly Salary,credit,GBP,11180.689999999999
+2024-04-01,-25.34,Groceries,ASDA,Groceries at ASDA,debit,GBP,11155.349999999999
+2024-04-01,-80.88,Transport,BP,Transport at BP,debit,GBP,11074.47
+2024-04-02,-76.66,Groceries,Lidl,Groceries at Lidl,debit,GBP,10997.81
+2024-04-02,-57.35,Shopping,Boots,Shopping at Boots,debit,GBP,10940.46
+2024-04-03,-120.39,Groceries,ASDA,Groceries at ASDA,debit,GBP,10820.07
+2024-04-04,-36.77,Shopping,M&S,Shopping at M&S,debit,GBP,10783.3
+2024-04-04,-94.22,Groceries,Aldi,Groceries at Aldi,debit,GBP,10689.08
+2024-04-04,-23.22,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,10665.86
+2024-04-06,-73.75,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,10592.11
+2024-04-06,-64.37,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,10527.74
+2024-04-07,-56.51,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,10471.23
+2024-04-11,-26.07,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,10445.16
+2024-04-12,-19.5,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,10425.66
+2024-04-12,-132.45,Shopping,H&M,Shopping at H&M,debit,GBP,10293.21
+2024-04-12,-34.85,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,10258.359999999999
+2024-04-13,-21.01,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,10237.349999999999
+2024-04-14,-13.94,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,10223.409999999998
+2024-04-15,-53.46,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,10169.949999999999
+2024-04-15,-45.83,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,10124.119999999999
+2024-04-16,-21.26,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,10102.859999999999
+2024-04-16,-36.69,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10066.169999999998
+2024-04-18,-39.23,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,10026.939999999999
+2024-04-18,-13.41,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,10013.529999999999
+2024-04-18,-24.91,Groceries,Aldi,Groceries at Aldi,debit,GBP,9988.619999999999
+2024-04-19,-8.67,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,9979.949999999999
+2024-04-20,-78.49,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,9901.46
+2024-04-20,-22.63,Healthcare,Opticians,Healthcare at Opticians,debit,GBP,9878.83
+2024-04-21,-112.05,Groceries,Lidl,Groceries at Lidl,debit,GBP,9766.78
+2024-04-22,-16.68,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,9750.1
+2024-04-23,-47.85,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,9702.25
+2024-04-23,-17.31,Groceries,Iceland,Groceries at Iceland,debit,GBP,9684.94
+2024-04-24,-125.22,Shopping,Zara,Shopping at Zara,debit,GBP,9559.720000000001
+2024-04-24,-42.18,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,9517.54
+2024-04-25,-11.58,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,9505.960000000001
+2024-04-27,-92.88,Groceries,Tesco,Groceries at Tesco,debit,GBP,9413.080000000002
+2024-04-28,-27.52,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,9385.560000000001
+2024-04-29,-31.0,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,9354.560000000001
+2024-04-30,-109.7,Utilities,BT,Utilities at BT,debit,GBP,9244.86
+2024-04-30,-54.21,Groceries,Iceland,Groceries at Iceland,debit,GBP,9190.650000000001
+2024-05-01,-55.47,Groceries,Aldi,Groceries at Aldi,debit,GBP,9135.180000000002
+2024-05-01,-181.47,Shopping,Next,Shopping at Next,debit,GBP,8953.710000000003
+2024-05-01,-22.57,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,8931.140000000003
+2024-05-02,-44.22,Transport,Shell,Transport at Shell,debit,GBP,8886.920000000004
+2024-05-02,-47.69,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,8839.230000000003
+2024-05-02,-72.77,Groceries,Iceland,Groceries at Iceland,debit,GBP,8766.460000000003
+2024-05-03,-81.55,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,8684.910000000003
+2024-05-04,-40.62,Transport,BP,Transport at BP,debit,GBP,8644.290000000003
+2024-05-04,-59.62,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,8584.670000000002
+2024-05-05,-70.67,Shopping,Next,Shopping at Next,debit,GBP,8514.000000000002
+2024-05-05,-184.56,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,8329.440000000002
+2024-05-06,-28.06,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,8301.380000000003
+2024-05-06,-193.69,Shopping,Boots,Shopping at Boots,debit,GBP,8107.690000000003
+2024-05-07,-10.24,Transport,TfL,Transport at TfL,debit,GBP,8097.4500000000035
+2024-05-07,-29.36,Utilities,BT,Utilities at BT,debit,GBP,8068.090000000004
+2024-05-08,-4.73,Transport,Shell,Transport at Shell,debit,GBP,8063.360000000004
+2024-05-10,-46.28,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,8017.0800000000045
+2024-05-11,-87.67,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,7929.410000000004
+2024-05-11,-86.38,Shopping,H&M,Shopping at H&M,debit,GBP,7843.030000000004
+2024-05-12,-102.95,Groceries,Lidl,Groceries at Lidl,debit,GBP,7740.0800000000045
+2024-05-12,-38.24,Utilities,British Gas,Utilities at British Gas,debit,GBP,7701.840000000005
+2024-05-12,-46.72,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,7655.120000000004
+2024-05-13,-82.82,Other,ATM Withdrawal,Other at ATM Withdrawal,debit,GBP,7572.300000000005
+2024-05-14,-14.54,Transport,Shell,Transport at Shell,debit,GBP,7557.760000000005
+2024-05-15,-173.8,Shopping,Next,Shopping at Next,debit,GBP,7383.960000000005
+2024-05-16,-42.57,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,7341.390000000005
+2024-05-17,-44.05,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,7297.340000000005
+2024-05-17,-39.37,Shopping,Next,Shopping at Next,debit,GBP,7257.970000000005
+2024-05-17,-22.69,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,7235.280000000005
+2024-05-18,-62.57,Other,Online Purchase,Other at Online Purchase,debit,GBP,7172.7100000000055
+2024-05-18,-27.45,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,7145.260000000006
+2024-05-19,-139.67,Shopping,Boots,Shopping at Boots,debit,GBP,7005.590000000006
+2024-05-19,-94.89,Groceries,Lidl,Groceries at Lidl,debit,GBP,6910.700000000005
+2024-05-20,-38.29,Groceries,Lidl,Groceries at Lidl,debit,GBP,6872.410000000005
+2024-05-20,-32.18,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,6840.230000000005
+2024-05-21,-47.09,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,6793.140000000005
+2024-05-23,-75.21,Groceries,Aldi,Groceries at Aldi,debit,GBP,6717.930000000005
+2024-05-24,-19.73,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,6698.200000000005
+2024-05-25,-36.98,Transport,BP,Transport at BP,debit,GBP,6661.220000000006
+2024-05-25,-16.07,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,6645.150000000006
+2024-05-26,-113.54,Utilities,Sky,Utilities at Sky,debit,GBP,6531.610000000006
+2024-05-27,-81.65,Groceries,ASDA,Groceries at ASDA,debit,GBP,6449.960000000006
+2024-05-27,-29.96,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,6420.000000000006
+2024-05-28,-16.07,Entertainment,Gym Membership,Entertainment at Gym Membership,debit,GBP,6403.930000000007
+2024-05-29,-87.15,Shopping,Zara,Shopping at Zara,debit,GBP,6316.780000000007
+2024-05-30,-52.16,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,6264.620000000007
+2024-05-30,-47.32,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,6217.3000000000075
+2024-05-30,-51.58,Groceries,Lidl,Groceries at Lidl,debit,GBP,6165.7200000000075
+2024-05-30,-8.9,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,6156.820000000008
+2024-05-31,4483.74,Income,Company Ltd,Monthly Salary,credit,GBP,10640.560000000009
+2024-05-31,-26.33,Transport,First Bus,Transport at First Bus,debit,GBP,10614.230000000009
+2024-05-31,-7.47,Other,Online Purchase,Other at Online Purchase,debit,GBP,10606.76000000001
+2024-05-31,-68.22,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,10538.54000000001
+2024-05-31,-75.7,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,10462.84000000001
+2024-06-01,2992.24,Income,Employer Inc,Monthly Salary,credit,GBP,13455.080000000009
+2024-06-01,-95.42,Groceries,Tesco,Groceries at Tesco,debit,GBP,13359.660000000009
+2024-06-01,-56.04,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,13303.620000000008
+2024-06-01,-22.55,Transport,Shell,Transport at Shell,debit,GBP,13281.070000000009
+2024-06-02,-31.28,Transport,TfL,Transport at TfL,debit,GBP,13249.790000000008
+2024-06-02,-83.32,Groceries,Tesco,Groceries at Tesco,debit,GBP,13166.470000000008
+2024-06-03,-34.75,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,13131.720000000008
+2024-06-03,-52.01,Utilities,BT,Utilities at BT,debit,GBP,13079.710000000008
+2024-06-03,-121.12,Shopping,Zara,Shopping at Zara,debit,GBP,12958.590000000007
+2024-06-04,-52.78,Groceries,Aldi,Groceries at Aldi,debit,GBP,12905.810000000007
+2024-06-04,-43.11,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,12862.700000000006
+2024-06-04,-50.63,Groceries,ASDA,Groceries at ASDA,debit,GBP,12812.070000000007
+2024-06-04,-117.6,Shopping,H&M,Shopping at H&M,debit,GBP,12694.470000000007
+2024-06-05,-23.32,Transport,TfL,Transport at TfL,debit,GBP,12671.150000000007
+2024-06-06,-36.32,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,12634.830000000007
+2024-06-06,-60.89,Transport,Shell,Transport at Shell,debit,GBP,12573.940000000008
+2024-06-07,-37.32,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,12536.620000000008
+2024-06-07,-38.53,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,12498.090000000007
+2024-06-07,-77.81,Groceries,Lidl,Groceries at Lidl,debit,GBP,12420.280000000008
+2024-06-07,-49.48,Utilities,BT,Utilities at BT,debit,GBP,12370.800000000008
+2024-06-08,-11.33,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,12359.470000000008
+2024-06-09,-30.82,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,12328.650000000009
+2024-06-09,-98.15,Groceries,Lidl,Groceries at Lidl,debit,GBP,12230.50000000001
+2024-06-10,-35.71,Transport,National Rail,Transport at National Rail,debit,GBP,12194.79000000001
+2024-06-11,-65.99,Transport,TfL,Transport at TfL,debit,GBP,12128.80000000001
+2024-06-12,-35.0,Groceries,Tesco,Groceries at Tesco,debit,GBP,12093.80000000001
+2024-06-12,-125.32,Shopping,Zara,Shopping at Zara,debit,GBP,11968.48000000001
+2024-06-13,-31.92,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,11936.56000000001
+2024-06-14,-43.99,Shopping,Boots,Shopping at Boots,debit,GBP,11892.57000000001
+2024-06-14,-10.78,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,11881.79000000001
+2024-06-15,-61.23,Groceries,Tesco,Groceries at Tesco,debit,GBP,11820.56000000001
+2024-06-16,-74.32,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,11746.24000000001
+2024-06-16,-35.88,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,11710.360000000011
+2024-06-16,-33.4,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,11676.960000000012
+2024-06-18,-76.18,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,11600.780000000012
+2024-06-18,-10.39,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,11590.390000000012
+2024-06-20,-54.21,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,11536.180000000013
+2024-06-20,-34.76,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,11501.420000000013
+2024-06-20,-181.1,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,11320.320000000012
+2024-06-21,-118.39,Groceries,Tesco,Groceries at Tesco,debit,GBP,11201.930000000013
+2024-06-21,-45.38,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,11156.550000000014
+2024-06-21,-133.41,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,11023.140000000014
+2024-06-22,-43.85,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,10979.290000000014
+2024-06-23,-50.02,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,10929.270000000013
+2024-06-24,-36.59,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,10892.680000000013
+2024-06-25,-57.99,Transport,Shell,Transport at Shell,debit,GBP,10834.690000000013
+2024-06-25,-63.27,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,10771.420000000013
+2024-06-26,-81.4,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10690.020000000013
+2024-06-26,-193.49,Shopping,Next,Shopping at Next,debit,GBP,10496.530000000013
+2024-06-27,-43.29,Utilities,EDF Energy,Utilities at EDF Energy,debit,GBP,10453.240000000013
+2024-06-27,-139.09,Utilities,Sky,Utilities at Sky,debit,GBP,10314.150000000012
+2024-06-28,-40.38,Groceries,Lidl,Groceries at Lidl,debit,GBP,10273.770000000013
+2024-06-28,-87.17,Utilities,British Gas,Utilities at British Gas,debit,GBP,10186.600000000013
+2024-06-28,-46.57,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,10140.030000000013
+2024-06-29,-8.49,Transport,BP,Transport at BP,debit,GBP,10131.540000000014
+2024-06-29,-72.46,Shopping,Next,Shopping at Next,debit,GBP,10059.080000000014
+2024-06-29,-68.19,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,9990.890000000014
+2024-06-29,-41.26,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,9949.630000000014
+2024-06-30,-17.98,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,9931.650000000014
+2024-06-30,-127.48,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,9804.170000000015
+2024-07-01,-26.72,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,9777.450000000015
+2024-07-01,-62.74,Shopping,H&M,Shopping at H&M,debit,GBP,9714.710000000015
+2024-07-02,-16.74,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,9697.970000000016
+2024-07-03,-45.87,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,9652.100000000015
+2024-07-04,-91.78,Groceries,Aldi,Groceries at Aldi,debit,GBP,9560.320000000014
+2024-07-04,-123.54,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,9436.780000000013
+2024-07-05,-50.89,Groceries,ASDA,Groceries at ASDA,debit,GBP,9385.890000000014
+2024-07-05,-16.78,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,9369.110000000013
+2024-07-06,-44.69,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,9324.420000000013
+2024-07-06,-18.61,Transport,BP,Transport at BP,debit,GBP,9305.810000000012
+2024-07-08,-63.21,Groceries,Aldi,Groceries at Aldi,debit,GBP,9242.600000000013
+2024-07-09,-62.94,Groceries,Iceland,Groceries at Iceland,debit,GBP,9179.660000000013
+2024-07-09,-53.67,Transport,TfL,Transport at TfL,debit,GBP,9125.990000000013
+2024-07-10,-46.6,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,9079.390000000012
+2024-07-10,-48.28,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,9031.110000000011
+2024-07-11,-67.42,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,8963.690000000011
+2024-07-11,-21.99,Other,Online Purchase,Other at Online Purchase,debit,GBP,8941.700000000012
+2024-07-11,-58.72,Shopping,H&M,Shopping at H&M,debit,GBP,8882.980000000012
+2024-07-12,-126.8,Groceries,Tesco,Groceries at Tesco,debit,GBP,8756.180000000013
+2024-07-12,-47.01,Shopping,Zara,Shopping at Zara,debit,GBP,8709.170000000013
+2024-07-13,-27.14,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,8682.030000000013
+2024-07-14,-103.97,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,8578.060000000014
+2024-07-14,-168.89,Shopping,Zara,Shopping at Zara,debit,GBP,8409.170000000015
+2024-07-14,-24.73,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,8384.440000000015
+2024-07-16,-64.63,Groceries,Tesco,Groceries at Tesco,debit,GBP,8319.810000000016
+2024-07-16,-71.85,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,8247.960000000015
+2024-07-16,-17.82,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,8230.140000000016
+2024-07-17,-103.74,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,8126.400000000016
+2024-07-19,-25.52,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,8100.880000000016
+2024-07-19,-68.99,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,8031.890000000016
+2024-07-19,-66.78,Groceries,Lidl,Groceries at Lidl,debit,GBP,7965.110000000016
+2024-07-20,-47.77,Groceries,Tesco,Groceries at Tesco,debit,GBP,7917.340000000016
+2024-07-20,-38.64,Transport,National Rail,Transport at National Rail,debit,GBP,7878.700000000015
+2024-07-20,-62.68,Groceries,Lidl,Groceries at Lidl,debit,GBP,7816.020000000015
+2024-07-21,-56.04,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,7759.980000000015
+2024-07-22,-31.73,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,7728.2500000000155
+2024-07-22,-13.33,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,7714.9200000000155
+2024-07-23,-42.46,Groceries,Aldi,Groceries at Aldi,debit,GBP,7672.4600000000155
+2024-07-24,-87.83,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,7584.630000000016
+2024-07-24,-87.72,Groceries,Lidl,Groceries at Lidl,debit,GBP,7496.910000000015
+2024-07-25,-34.9,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,7462.010000000016
+2024-07-25,-10.17,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,7451.840000000016
+2024-07-26,-39.95,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,7411.890000000016
+2024-07-27,-81.27,Groceries,Tesco,Groceries at Tesco,debit,GBP,7330.620000000015
+2024-07-27,-204.73,Shopping,Next,Shopping at Next,debit,GBP,7125.890000000016
+2024-07-28,-80.63,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,7045.260000000016
+2024-07-28,-31.81,Groceries,Aldi,Groceries at Aldi,debit,GBP,7013.450000000015
+2024-07-29,-66.26,Shopping,M&S,Shopping at M&S,debit,GBP,6947.190000000015
+2024-07-30,-17.15,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,6930.040000000015
+2024-07-30,-46.61,Transport,First Bus,Transport at First Bus,debit,GBP,6883.430000000016
+2024-07-30,-45.14,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,6838.290000000015
+2024-07-31,-100.05,Groceries,Iceland,Groceries at Iceland,debit,GBP,6738.240000000015
+2024-07-31,2016.78,Income,Company Ltd,Monthly Salary,credit,GBP,8755.020000000015
+2024-08-01,-80.08,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,8674.940000000015
+2024-08-01,-25.89,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,8649.050000000016
+2024-08-01,-17.05,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,8632.000000000016
+2024-08-02,-22.29,Entertainment,Amazon Prime,Entertainment at Amazon Prime,debit,GBP,8609.710000000015
+2024-08-02,-21.02,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,8588.690000000015
+2024-08-03,-105.92,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,8482.770000000015
+2024-08-03,-12.21,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,8470.560000000016
+2024-08-03,-28.86,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,8441.700000000015
+2024-08-04,-75.65,Utilities,British Gas,Utilities at British Gas,debit,GBP,8366.050000000016
+2024-08-04,-41.86,Transport,Shell,Transport at Shell,debit,GBP,8324.190000000015
+2024-08-05,-6.95,Transport,BP,Transport at BP,debit,GBP,8317.240000000014
+2024-08-05,-17.43,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,8299.810000000014
+2024-08-06,-16.62,Transport,First Bus,Transport at First Bus,debit,GBP,8283.190000000013
+2024-08-07,-30.66,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,8252.530000000013
+2024-08-07,-163.54,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,8088.990000000013
+2024-08-08,-59.81,Shopping,Next,Shopping at Next,debit,GBP,8029.180000000013
+2024-08-08,-116.46,Shopping,M&S,Shopping at M&S,debit,GBP,7912.720000000013
+2024-08-08,-102.41,Other,Online Purchase,Other at Online Purchase,debit,GBP,7810.310000000013
+2024-08-09,-194.44,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,7615.8700000000135
+2024-08-10,-37.1,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,7578.770000000013
+2024-08-10,-98.25,Shopping,Boots,Shopping at Boots,debit,GBP,7480.520000000013
+2024-08-10,-45.95,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,7434.570000000013
+2024-08-11,-9.01,Transport,TfL,Transport at TfL,debit,GBP,7425.560000000013
+2024-08-11,-13.9,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,7411.6600000000135
+2024-08-12,-28.93,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,7382.730000000013
+2024-08-12,-61.75,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,7320.980000000013
+2024-08-12,-69.3,Transport,First Bus,Transport at First Bus,debit,GBP,7251.680000000013
+2024-08-13,-54.86,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,7196.820000000013
+2024-08-14,-53.03,Transport,National Rail,Transport at National Rail,debit,GBP,7143.790000000014
+2024-08-15,-36.06,Transport,First Bus,Transport at First Bus,debit,GBP,7107.730000000013
+2024-08-15,-26.55,Transport,TfL,Transport at TfL,debit,GBP,7081.180000000013
+2024-08-16,-29.43,Utilities,EDF Energy,Utilities at EDF Energy,debit,GBP,7051.750000000013
+2024-08-16,-102.66,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,6949.090000000013
+2024-08-16,-35.38,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,6913.710000000013
+2024-08-18,-127.55,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,6786.160000000013
+2024-08-18,-100.24,Groceries,Tesco,Groceries at Tesco,debit,GBP,6685.920000000013
+2024-08-18,-22.56,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,6663.360000000012
+2024-08-19,-29.73,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,6633.630000000013
+2024-08-19,-54.73,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,6578.900000000013
+2024-08-20,-135.88,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,6443.020000000013
+2024-08-20,-98.04,Groceries,Iceland,Groceries at Iceland,debit,GBP,6344.980000000013
+2024-08-22,-174.88,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,6170.100000000013
+2024-08-23,-35.29,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,6134.810000000013
+2024-08-25,-20.03,Groceries,Iceland,Groceries at Iceland,debit,GBP,6114.780000000013
+2024-08-25,-170.29,Shopping,M&S,Shopping at M&S,debit,GBP,5944.490000000013
+2024-08-26,-110.74,Utilities,Sky,Utilities at Sky,debit,GBP,5833.750000000014
+2024-08-28,-74.64,Utilities,EDF Energy,Utilities at EDF Energy,debit,GBP,5759.110000000013
+2024-08-30,-11.13,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,5747.980000000013
+2024-08-30,-43.91,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,5704.070000000013
+2024-08-30,-47.41,Groceries,Aldi,Groceries at Aldi,debit,GBP,5656.6600000000135
+2024-08-31,-114.07,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,5542.590000000014
+2024-08-31,-31.3,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,5511.290000000014
+2024-08-31,3817.04,Income,Employer Inc,Monthly Salary,credit,GBP,9328.330000000013
+2024-08-31,-31.4,Groceries,Tesco,Groceries at Tesco,debit,GBP,9296.930000000013
+2024-09-01,2474.32,Income,Employer Inc,Monthly Salary,credit,GBP,11771.250000000013
+2024-09-01,-38.0,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,11733.250000000013
+2024-09-02,-14.11,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,11719.140000000012
+2024-09-02,-107.48,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,11611.660000000013
+2024-09-03,-29.73,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,11581.930000000013
+2024-09-05,-84.31,Groceries,ASDA,Groceries at ASDA,debit,GBP,11497.620000000014
+2024-09-06,-52.03,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,11445.590000000013
+2024-09-07,-28.02,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,11417.570000000012
+2024-09-07,-10.08,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,11407.490000000013
+2024-09-08,-46.55,Transport,BP,Transport at BP,debit,GBP,11360.940000000013
+2024-09-08,-30.68,Transport,Shell,Transport at Shell,debit,GBP,11330.260000000013
+2024-09-09,-38.15,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,11292.110000000013
+2024-09-09,-72.15,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,11219.960000000014
+2024-09-10,-79.54,Healthcare,Opticians,Healthcare at Opticians,debit,GBP,11140.420000000013
+2024-09-10,-45.6,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,11094.820000000012
+2024-09-11,-33.51,Entertainment,Football Tickets,Entertainment at Football Tickets,debit,GBP,11061.310000000012
+2024-09-11,-155.76,Shopping,Boots,Shopping at Boots,debit,GBP,10905.550000000012
+2024-09-11,-149.09,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,10756.460000000012
+2024-09-12,-60.82,Transport,BP,Transport at BP,debit,GBP,10695.640000000012
+2024-09-12,-13.5,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,10682.140000000012
+2024-09-12,-47.89,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10634.250000000013
+2024-09-13,-49.28,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,10584.970000000012
+2024-09-14,-26.37,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10558.600000000011
+2024-09-14,-112.23,Utilities,Sky,Utilities at Sky,debit,GBP,10446.370000000012
+2024-09-15,-19.13,Shopping,Next,Shopping at Next,debit,GBP,10427.240000000013
+2024-09-15,-42.22,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,10385.020000000013
+2024-09-15,-49.58,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,10335.440000000013
+2024-09-16,-55.5,Other,Online Purchase,Other at Online Purchase,debit,GBP,10279.940000000013
+2024-09-16,-183.12,Shopping,H&M,Shopping at H&M,debit,GBP,10096.820000000012
+2024-09-16,-126.69,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,9970.130000000012
+2024-09-17,-53.24,Transport,National Rail,Transport at National Rail,debit,GBP,9916.890000000012
+2024-09-17,-28.07,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,9888.820000000012
+2024-09-17,-19.69,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,9869.130000000012
+2024-09-18,-82.06,Shopping,H&M,Shopping at H&M,debit,GBP,9787.070000000012
+2024-09-18,-104.21,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,9682.860000000013
+2024-09-18,-37.31,Transport,First Bus,Transport at First Bus,debit,GBP,9645.550000000014
+2024-09-19,-32.24,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,9613.310000000014
+2024-09-19,-57.48,Transport,TfL,Transport at TfL,debit,GBP,9555.830000000014
+2024-09-20,-112.81,Groceries,Lidl,Groceries at Lidl,debit,GBP,9443.020000000015
+2024-09-20,-93.27,Utilities,Sky,Utilities at Sky,debit,GBP,9349.750000000015
+2024-09-20,-18.27,Groceries,Lidl,Groceries at Lidl,debit,GBP,9331.480000000014
+2024-09-21,-37.93,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,9293.550000000014
+2024-09-23,-25.07,Groceries,Iceland,Groceries at Iceland,debit,GBP,9268.480000000014
+2024-09-23,-29.92,Healthcare,Pharmacy,Healthcare at Pharmacy,debit,GBP,9238.560000000014
+2024-09-24,-78.34,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,9160.220000000014
+2024-09-24,-35.17,Dining Out,McDonald's,Dining Out at McDonald's,debit,GBP,9125.050000000014
+2024-09-25,-25.33,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,9099.720000000014
+2024-09-26,-32.48,Transport,National Rail,Transport at National Rail,debit,GBP,9067.240000000014
+2024-09-26,-88.18,Shopping,Boots,Shopping at Boots,debit,GBP,8979.060000000014
+2024-09-27,-30.0,Groceries,Tesco,Groceries at Tesco,debit,GBP,8949.060000000014
+2024-09-27,-16.11,Transport,TfL,Transport at TfL,debit,GBP,8932.950000000013
+2024-09-27,-40.32,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,8892.630000000014
+2024-09-28,-21.53,Transport,TfL,Transport at TfL,debit,GBP,8871.100000000013
+2024-09-29,-20.37,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,8850.730000000012
+2024-09-30,-30.25,Utilities,British Gas,Utilities at British Gas,debit,GBP,8820.480000000012
+2024-09-30,-25.89,Shopping,Boots,Shopping at Boots,debit,GBP,8794.590000000013
+2024-10-01,-38.96,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,8755.630000000014
+2024-10-01,-10.62,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,8745.010000000013
+2024-10-01,-46.09,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,8698.920000000013
+2024-10-02,-77.05,Transport,TfL,Transport at TfL,debit,GBP,8621.870000000014
+2024-10-03,-88.09,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,8533.780000000013
+2024-10-04,-48.18,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,8485.600000000013
+2024-10-05,-45.16,Entertainment,Cinema,Entertainment at Cinema,debit,GBP,8440.440000000013
+2024-10-06,-140.32,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,8300.120000000014
+2024-10-06,-30.25,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,8269.870000000014
+2024-10-06,-37.92,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,8231.950000000013
+2024-10-06,-30.14,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,8201.810000000014
+2024-10-07,-60.98,Shopping,Zara,Shopping at Zara,debit,GBP,8140.8300000000145
+2024-10-07,-70.25,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,8070.5800000000145
+2024-10-08,-53.48,Entertainment,Gym Membership,Entertainment at Gym Membership,debit,GBP,8017.100000000015
+2024-10-08,-91.83,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,7925.270000000015
+2024-10-09,-24.99,Transport,First Bus,Transport at First Bus,debit,GBP,7900.280000000015
+2024-10-09,-20.45,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,7879.830000000015
+2024-10-10,-11.11,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,7868.720000000016
+2024-10-10,-75.46,Transport,Shell,Transport at Shell,debit,GBP,7793.260000000016
+2024-10-11,-15.09,Transport,National Rail,Transport at National Rail,debit,GBP,7778.1700000000155
+2024-10-12,-64.39,Utilities,British Gas,Utilities at British Gas,debit,GBP,7713.780000000015
+2024-10-12,-114.39,Groceries,Lidl,Groceries at Lidl,debit,GBP,7599.390000000015
+2024-10-15,-18.21,Groceries,Tesco,Groceries at Tesco,debit,GBP,7581.180000000015
+2024-10-16,-41.48,Healthcare,Opticians,Healthcare at Opticians,debit,GBP,7539.700000000015
+2024-10-16,-5.08,Transport,National Rail,Transport at National Rail,debit,GBP,7534.620000000015
+2024-10-17,-13.66,Transport,TfL,Transport at TfL,debit,GBP,7520.9600000000155
+2024-10-17,-12.89,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,7508.070000000015
+2024-10-17,-89.8,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,7418.270000000015
+2024-10-18,-48.75,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,7369.520000000015
+2024-10-18,-124.17,Shopping,Next,Shopping at Next,debit,GBP,7245.350000000015
+2024-10-19,-40.7,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,7204.650000000015
+2024-10-20,-48.0,Groceries,ASDA,Groceries at ASDA,debit,GBP,7156.650000000015
+2024-10-20,-95.9,Utilities,BT,Utilities at BT,debit,GBP,7060.7500000000155
+2024-10-23,-97.03,Groceries,Iceland,Groceries at Iceland,debit,GBP,6963.720000000016
+2024-10-24,-80.24,Shopping,Zara,Shopping at Zara,debit,GBP,6883.480000000016
+2024-10-25,-6.53,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,6876.950000000016
+2024-10-26,-52.47,Utilities,BT,Utilities at BT,debit,GBP,6824.480000000016
+2024-10-26,-77.82,Utilities,Sky,Utilities at Sky,debit,GBP,6746.660000000016
+2024-10-27,-20.55,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,6726.110000000016
+2024-10-27,-115.69,Shopping,M&S,Shopping at M&S,debit,GBP,6610.420000000016
+2024-10-28,-173.88,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,6436.540000000016
+2024-10-28,-68.12,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,6368.420000000016
+2024-10-29,-51.44,Utilities,Sky,Utilities at Sky,debit,GBP,6316.980000000017
+2024-10-29,-121.67,Groceries,Lidl,Groceries at Lidl,debit,GBP,6195.310000000017
+2024-10-30,-98.47,Other,Miscellaneous,Other at Miscellaneous,debit,GBP,6096.8400000000165
+2024-10-31,4018.67,Income,Employer Inc,Monthly Salary,credit,GBP,10115.510000000017
+2024-10-31,-23.33,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,10092.180000000017
+2024-10-31,-28.61,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,10063.570000000016
+2024-10-31,-57.26,Groceries,Iceland,Groceries at Iceland,debit,GBP,10006.310000000016
+2024-11-01,-78.19,Groceries,Tesco,Groceries at Tesco,debit,GBP,9928.120000000015
+2024-11-01,-87.65,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,9840.470000000016
+2024-11-02,-86.83,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,9753.640000000016
+2024-11-04,-56.06,Entertainment,Football Tickets,Entertainment at Football Tickets,debit,GBP,9697.580000000016
+2024-11-05,-25.35,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,9672.230000000016
+2024-11-05,-70.85,Groceries,Tesco,Groceries at Tesco,debit,GBP,9601.380000000016
+2024-11-06,-53.53,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,9547.850000000015
+2024-11-07,-137.1,Shopping,Boots,Shopping at Boots,debit,GBP,9410.750000000015
+2024-11-08,-89.29,Utilities,British Gas,Utilities at British Gas,debit,GBP,9321.460000000014
+2024-11-09,-70.79,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,9250.670000000013
+2024-11-10,-19.61,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,9231.060000000012
+2024-11-11,-55.07,Transport,TfL,Transport at TfL,debit,GBP,9175.990000000013
+2024-11-11,-30.89,Other,ATM Withdrawal,Other at ATM Withdrawal,debit,GBP,9145.100000000013
+2024-11-12,-18.58,Entertainment,Football Tickets,Entertainment at Football Tickets,debit,GBP,9126.520000000013
+2024-11-13,-39.84,Transport,Shell,Transport at Shell,debit,GBP,9086.680000000013
+2024-11-13,-32.73,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,9053.950000000013
+2024-11-14,-37.32,Transport,First Bus,Transport at First Bus,debit,GBP,9016.630000000014
+2024-11-14,-41.41,Groceries,Tesco,Groceries at Tesco,debit,GBP,8975.220000000014
+2024-11-14,-25.62,Utilities,Sky,Utilities at Sky,debit,GBP,8949.600000000013
+2024-11-16,-60.46,Transport,TfL,Transport at TfL,debit,GBP,8889.140000000014
+2024-11-16,-67.94,Shopping,H&M,Shopping at H&M,debit,GBP,8821.200000000013
+2024-11-16,-24.23,Groceries,ASDA,Groceries at ASDA,debit,GBP,8796.970000000014
+2024-11-17,-93.23,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,8703.740000000014
+2024-11-17,-89.58,Groceries,Iceland,Groceries at Iceland,debit,GBP,8614.160000000014
+2024-11-17,-16.99,Groceries,Lidl,Groceries at Lidl,debit,GBP,8597.170000000015
+2024-11-18,-17.73,Groceries,Lidl,Groceries at Lidl,debit,GBP,8579.440000000015
+2024-11-18,-24.71,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,8554.730000000016
+2024-11-19,-41.46,Transport,TfL,Transport at TfL,debit,GBP,8513.270000000017
+2024-11-19,-14.04,Other,ATM Withdrawal,Other at ATM Withdrawal,debit,GBP,8499.230000000016
+2024-11-20,-48.0,Transport,Shell,Transport at Shell,debit,GBP,8451.230000000016
+2024-11-20,-29.44,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,8421.790000000015
+2024-11-21,-29.68,Entertainment,Spotify,Entertainment at Spotify,debit,GBP,8392.110000000015
+2024-11-21,-127.97,Groceries,Tesco,Groceries at Tesco,debit,GBP,8264.140000000016
+2024-11-22,-69.04,Healthcare,NHS Prescription,Healthcare at NHS Prescription,debit,GBP,8195.100000000015
+2024-11-22,-31.42,Groceries,Tesco,Groceries at Tesco,debit,GBP,8163.680000000015
+2024-11-22,-28.86,Shopping,Boots,Shopping at Boots,debit,GBP,8134.820000000015
+2024-11-23,-47.85,Transport,Shell,Transport at Shell,debit,GBP,8086.970000000015
+2024-11-23,-120.2,Shopping,H&M,Shopping at H&M,debit,GBP,7966.770000000015
+2024-11-24,-28.39,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,7938.380000000015
+2024-11-26,-82.53,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,7855.850000000015
+2024-11-27,-50.73,Transport,Tesco Petrol,Transport at Tesco Petrol,debit,GBP,7805.120000000015
+2024-11-28,-51.77,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,7753.350000000015
+2024-11-28,-78.78,Groceries,Lidl,Groceries at Lidl,debit,GBP,7674.570000000015
+2024-11-30,5979.57,Income,Workplace PLC,Monthly Salary,credit,GBP,13654.140000000014
+2024-11-30,-14.69,Dining Out,Costa Coffee,Dining Out at Costa Coffee,debit,GBP,13639.450000000013
+2024-11-30,-6.85,Dining Out,Pizza Express,Dining Out at Pizza Express,debit,GBP,13632.600000000013
+2024-12-01,-61.48,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,13571.120000000014
+2024-12-01,-99.77,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,13471.350000000013
+2024-12-02,-52.03,Other,Bank Transfer,Other at Bank Transfer,debit,GBP,13419.320000000012
+2024-12-02,-55.79,Groceries,ASDA,Groceries at ASDA,debit,GBP,13363.530000000012
+2024-12-02,-39.69,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,13323.840000000011
+2024-12-03,-84.23,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,13239.610000000011
+2024-12-03,-62.63,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,13176.980000000012
+2024-12-04,-16.27,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,13160.710000000012
+2024-12-04,-53.36,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,13107.350000000011
+2024-12-05,-70.95,Utilities,Thames Water,Utilities at Thames Water,debit,GBP,13036.40000000001
+2024-12-05,-18.28,Groceries,Morrisons,Groceries at Morrisons,debit,GBP,13018.12000000001
+2024-12-06,-60.96,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,12957.16000000001
+2024-12-06,-101.7,Shopping,Zara,Shopping at Zara,debit,GBP,12855.46000000001
+2024-12-08,-63.22,Transport,First Bus,Transport at First Bus,debit,GBP,12792.24000000001
+2024-12-08,-55.26,Groceries,Aldi,Groceries at Aldi,debit,GBP,12736.98000000001
+2024-12-08,-80.48,Utilities,EDF Energy,Utilities at EDF Energy,debit,GBP,12656.500000000011
+2024-12-08,-42.19,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,12614.31000000001
+2024-12-09,-42.49,Shopping,Next,Shopping at Next,debit,GBP,12571.82000000001
+2024-12-09,-71.5,Utilities,Sky,Utilities at Sky,debit,GBP,12500.32000000001
+2024-12-10,-12.68,Other,Online Purchase,Other at Online Purchase,debit,GBP,12487.64000000001
+2024-12-10,-44.55,Healthcare,Dentist,Healthcare at Dentist,debit,GBP,12443.090000000011
+2024-12-10,-28.4,Other,ATM Withdrawal,Other at ATM Withdrawal,debit,GBP,12414.690000000011
+2024-12-11,-72.29,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,12342.40000000001
+2024-12-11,-77.85,Groceries,Tesco,Groceries at Tesco,debit,GBP,12264.55000000001
+2024-12-12,-24.77,Dining Out,Wagamama,Dining Out at Wagamama,debit,GBP,12239.78000000001
+2024-12-13,-47.83,Healthcare,Private GP,Healthcare at Private GP,debit,GBP,12191.95000000001
+2024-12-13,-32.41,Utilities,Virgin Media,Utilities at Virgin Media,debit,GBP,12159.54000000001
+2024-12-13,-8.5,Transport,TfL,Transport at TfL,debit,GBP,12151.04000000001
+2024-12-14,-62.54,Entertainment,Football Tickets,Entertainment at Football Tickets,debit,GBP,12088.50000000001
+2024-12-15,-33.28,Other,ATM Withdrawal,Other at ATM Withdrawal,debit,GBP,12055.220000000008
+2024-12-15,-93.27,Groceries,Aldi,Groceries at Aldi,debit,GBP,11961.950000000008
+2024-12-16,-26.93,Groceries,Tesco,Groceries at Tesco,debit,GBP,11935.020000000008
+2024-12-16,-130.29,Shopping,Next,Shopping at Next,debit,GBP,11804.730000000007
+2024-12-16,-104.77,Utilities,EDF Energy,Utilities at EDF Energy,debit,GBP,11699.960000000006
+2024-12-16,-22.47,Dining Out,Starbucks,Dining Out at Starbucks,debit,GBP,11677.490000000007
+2024-12-17,-71.05,Other,ATM Withdrawal,Other at ATM Withdrawal,debit,GBP,11606.440000000008
+2024-12-19,-116.21,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,11490.230000000009
+2024-12-20,-47.13,Dining Out,Nando's,Dining Out at Nando's,debit,GBP,11443.10000000001
+2024-12-20,-114.34,Groceries,Iceland,Groceries at Iceland,debit,GBP,11328.76000000001
+2024-12-21,-121.14,Shopping,Boots,Shopping at Boots,debit,GBP,11207.62000000001
+2024-12-21,-49.35,Entertainment,Netflix,Entertainment at Netflix,debit,GBP,11158.27000000001
+2024-12-21,-137.56,Utilities,Sky,Utilities at Sky,debit,GBP,11020.71000000001
+2024-12-21,-44.47,Groceries,Iceland,Groceries at Iceland,debit,GBP,10976.24000000001
+2024-12-24,-25.86,Groceries,Aldi,Groceries at Aldi,debit,GBP,10950.38000000001
+2024-12-24,-18.42,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10931.96000000001
+2024-12-24,-113.4,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10818.56000000001
+2024-12-25,-100.99,Shopping,Amazon UK,Shopping at Amazon UK,debit,GBP,10717.57000000001
+2024-12-26,-48.54,Shopping,John Lewis,Shopping at John Lewis,debit,GBP,10669.03000000001
+2024-12-27,-11.82,Dining Out,Local Pub,Dining Out at Local Pub,debit,GBP,10657.21000000001
+2024-12-28,-18.81,Transport,First Bus,Transport at First Bus,debit,GBP,10638.40000000001
+2024-12-29,-34.64,Groceries,Lidl,Groceries at Lidl,debit,GBP,10603.760000000011
+2024-12-29,-62.9,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10540.860000000011
+2024-12-29,-106.88,Groceries,Sainsbury's,Groceries at Sainsbury's,debit,GBP,10433.980000000012
+2024-12-29,-14.87,Transport,BP,Transport at BP,debit,GBP,10419.110000000011
+2024-12-30,-135.28,Shopping,Zara,Shopping at Zara,debit,GBP,10283.83000000001
+2024-12-30,-21.28,Transport,First Bus,Transport at First Bus,debit,GBP,10262.55000000001
+2024-12-31,3102.14,Income,Employer Inc,Monthly Salary,credit,GBP,13364.69000000001

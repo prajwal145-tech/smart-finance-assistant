@@ -1,0 +1,31 @@
+# Core Data Science Libraries
+pandas==2.1.4              # For handling data (like Excel but in Python)
+numpy==1.24.3               # For mathematical calculations
+matplotlib==3.8.2          # For creating charts and graphs
+seaborn==0.13.0             # For beautiful statistical charts
+plotly==5.17.0              # For interactive charts
+
+# Machine Learning
+scikit-learn==1.3.2         # For AI/ML predictions
+joblib==1.3.2               # For saving trained models
+
+# Web Development
+streamlit==1.28.1           # For creating web interface (super easy!)
+flask==3.0.0                # Alternative web framework
+requests==2.31.0            # For making API calls
+
+# Data Generation and Processing
+faker==20.1.0               # For generating fake realistic data
+python-dateutil==2.8.2     # For handling dates easily
+
+# AI Integration (Optional - we'll add later)
+openai==1.3.7               # For ChatGPT API integration
+
+# Utility Libraries
+python-dotenv==1.0.0        # For managing secret keys safely
+openpyxl==3.1.2             # For reading Excel files
+xlrd==2.0.1                 # For older Excel formats
+
+# Development Tools
+jupyter==1.0.0              # For notebooks and experimentation
+pytest==7.4.3              # For testing our code
