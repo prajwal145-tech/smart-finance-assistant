@@ -23,9 +23,27 @@ Everything runs on your machine. You control your data.
 - **Matplotlib** – for basic charts
 - **Joblib** – for saving/loading trained models
 
+  ##  Requirements
+- **Python 3.11** (recommended)
+- **pip** (Python package manager)
+- Internet browser (for viewing the dashboard)
+
 ## How to run it
 
-### Clone the repo
+### 1.Clone the repo
 ```bash
 git clone https://github.com/yourusername/smart-finance-assistant.git
 cd smart-finance-assistant
+
+### 2.Create a Virtual Environment
+py -3.11 -m venv finance_env
+finance_env\Scripts\activate
+
+### 3.Install Dependencies
+pip install -r requirements.txt
+
+### 4.Run the App
+cd src
+streamlit run app.py
+
+
